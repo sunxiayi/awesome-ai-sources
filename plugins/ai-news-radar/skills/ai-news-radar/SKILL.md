@@ -1,12 +1,12 @@
 ---
-name: agentic-brew
+name: ai-news-radar
 description: Fetch curated AI news, social signals, blogs, papers, events, and skills
   from the Agentic Brew public RSS feeds (https://www.agenticbrew.ai/feed/*.xml) and
   return a compact, agent-friendly list. Use when the user wants "today's AI news",
   "what's trending in AI", "AI papers this week", "AI events", "AI blogs", "trending
   AI repos", "trending AI on Reddit / YouTube / Product Hunt", "trending AI skills",
-  "agentic brew feed", "latest AI digest", or any request to pull curated AI items
-  from Agentic Brew without writing a scraper.
+  "ai news radar", "agentic brew feed", "AI signal radar", "latest AI digest",
+  or any request to pull curated AI items from Agentic Brew without writing a scraper.
 ---
 
 # Agentic Brew Feed Fetcher
@@ -32,7 +32,7 @@ Pulls items from the Agentic Brew public RSS endpoints and returns them as a cle
 ## Usage
 
 ```
-/agentic-brew [feed] [--limit N] [--query KEYWORD] [--json]
+/ai-news-radar [feed] [--limit N] [--query KEYWORD] [--json]
 ```
 
 - `feed` (optional, default `news`): one of `news`, `twitter`, `github`, `reddit`, `youtube`, `product_hunt`, `skill`, `blog`, `paper`, `event`, `all`
@@ -66,7 +66,7 @@ This skill covers a lot of ground — 11 feeds spanning news, social, papers, ev
 
 4. Once the user has answered all three, fetch the selected feeds in parallel and present a single combined report grouped by category, formatted at the chosen detail level. If they chose `daily`/`weekly`, ALSO offer to set up the recurring schedule before exiting — don't silently leave it as a one-shot.
 
-If the user provides explicit args (e.g., `/agentic-brew news --limit 5`), skip the questions entirely and execute directly per the Usage section.
+If the user provides explicit args (e.g., `/ai-news-radar news --limit 5`), skip the questions entirely and execute directly per the Usage section.
 
 ## Steps (direct invocation)
 
@@ -90,7 +90,7 @@ import json, sys, urllib.request, xml.etree.ElementTree as ET
 FEED, LIMIT, QUERY, FORMAT = sys.argv[1], int(sys.argv[2]), sys.argv[3].lower(), sys.argv[4]
 URL = f"https://www.agenticbrew.ai/feed/{FEED}.xml"
 
-req = urllib.request.Request(URL, headers={"User-Agent": "agentic-brew-skill/1.0"})
+req = urllib.request.Request(URL, headers={"User-Agent": "ai-news-radar-skill/1.0"})
 with urllib.request.urlopen(req, timeout=30) as r:
     xml_bytes = r.read()
 

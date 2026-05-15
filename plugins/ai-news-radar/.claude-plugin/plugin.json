@@ -1,0 +1,11 @@
+{
+  "name": "ai-news-radar",
+  "description": "Your all-in-one AI signal radar. Fetch curated AI news, social signals, blogs, papers, events, and skills from the Agentic Brew public RSS feeds and return a compact, agent-friendly list.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sunxiayi"
+  },
+  "homepage": "https://www.agenticbrew.ai",
+  "repository": "github:sunxiayi/awesome-ai-sources",
+  "license": "MIT"
+}
