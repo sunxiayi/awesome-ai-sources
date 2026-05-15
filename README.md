@@ -1,6 +1,6 @@
 # Awesome AI Sources
 
-The AI frontier, distilled.
+Your all-in-one AI signal radar.
 
 [Visit Agentic Brew](https://www.agenticbrew.ai) | [Browse the full source directory](SOURCES.md)
 
@@ -68,7 +68,7 @@ If you use it as a starting point, check back occasionally for newly added sourc
 
 ## 6. Use From Any AI Agent
 
-Agentic Brew exposes the curated source content as public RSS feeds, so any AI coding agent (Claude Code, OpenClaw, Cursor, custom agents, etc.) can pull from it without scraping or auth.
+Agentic Brew exposes the curated source content as public RSS feeds, so any AI coding agent (Claude Code, OpenClaw, Hermes, custom agents, etc.) can pull from it without scraping or auth.
 
 ### The feeds
 
@@ -88,42 +88,44 @@ Eleven public endpoints under `https://www.agenticbrew.ai/feed/<feed>.xml`:
 | `event`        | Upcoming AI events with start time and summaries | Original event page (e.g., lu.ma) |
 | `all`          | Union of all of the above | Per-item — same as the feed above |
 
-### Option A: any agent — call the feeds directly
+### For your AI agent (one-line Claude Code plugin)
 
-Any agent that can run a shell command, fetch a URL, or read RSS can use the feeds with no installation. For example, in a bash-capable agent:
-
-```bash
-curl -s https://www.agenticbrew.ai/feed/news.xml
-```
-
-Point your agent at this list of feed URLs as a tool, or have it fetch the desired feed on demand. Each feed is standard RSS 2.0; any XML/RSS parser works.
-
-### Option B: Claude Code — one-line plugin install
-
-For Claude Code users, a ready-made plugin wraps the feeds as a slash command:
+Install the `ai-news-radar` plugin in any Claude Code session:
 
 ```bash
-claude plugin install github:sunxiayi/awesome-ai-sources/plugins/agentic-brew
+claude plugin install github:sunxiayi/awesome-ai-sources/plugins/ai-news-radar
 ```
 
-Then in any Claude Code session:
+Then trigger the slash command:
 
 ```
-/agentic-brew [feed] [--limit N] [--query KEYWORD] [--json]
+/ai-news-radar [feed] [--limit N] [--query KEYWORD] [--json]
 ```
 
 Examples:
 
 ```
-/agentic-brew news
-/agentic-brew paper --limit 5
-/agentic-brew twitter --query "openai"
-/agentic-brew all --json
+/ai-news-radar news
+/ai-news-radar paper --limit 5
+/ai-news-radar twitter --query "openai"
+/ai-news-radar all --json
 ```
 
-### Option C: other agent frameworks — reuse the skill definition
+When the user invokes the skill vaguely (e.g., "give me today's AI digest"), the agent asks three questions first — which categories, how often, how much detail per item — and shapes the output accordingly.
 
-The plugin's skill definition (a single markdown file with frontmatter and a small bash + Python parsing snippet) lives at [`plugins/agentic-brew/skills/agentic-brew/SKILL.md`](plugins/agentic-brew/skills/agentic-brew/SKILL.md). If your agent framework supports skill / instruction files (OpenClaw, custom harnesses, etc.), point it at that file or copy the snippet into your own tool format. The skill is self-contained — no external dependencies beyond Python's stdlib.
+### In any RSS reader or scraper (raw feeds)
+
+Every feed is a standard RSS 2.0 XML endpoint. No auth, no rate limit on the caller side. Works with any RSS reader, scraper, or AI ingest pipeline. For example:
+
+```bash
+curl -s https://www.agenticbrew.ai/feed/news.xml
+```
+
+Auto-discovery `<link rel="alternate" type="application/rss+xml">` tags for all eleven feeds are exposed in every page's `<head>` on [agenticbrew.ai](https://www.agenticbrew.ai). LLM-friendly summary at [agenticbrew.ai/llms.txt](https://www.agenticbrew.ai/llms.txt).
+
+### Other agent frameworks (reuse the skill definition)
+
+The plugin's skill definition (a single markdown file with frontmatter and a small bash + Python parsing snippet) lives at [`plugins/ai-news-radar/skills/ai-news-radar/SKILL.md`](plugins/ai-news-radar/skills/ai-news-radar/SKILL.md). If your agent framework supports skill / instruction files (OpenClaw, Hermes, custom harnesses, etc.), point it at that file or copy the snippet into your own tool format. The skill is self-contained — no external dependencies beyond Python's stdlib.
 
 ## 7. Use The Product
 
