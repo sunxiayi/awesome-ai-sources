@@ -40,7 +40,27 @@ Pulls items from the Agentic Brew public RSS endpoints and returns them as a cle
 - `--query KEYWORD` (optional): case-insensitive substring filter over title + description
 - `--json` (optional): emit JSON instead of markdown
 
-## Steps
+## Default interactive flow (no args, or vague request)
+
+This skill covers a lot of ground — 11 feeds spanning news, social, papers, events, and more. If the user invokes it without specifying a feed (e.g., "show me what's new on Agentic Brew", "give me today's AI digest"), do NOT silently default to one feed. Instead, before fetching anything:
+
+1. **Ask the user which categories they want.** Use the host agent's question UI (in Claude Code: `AskUserQuestion` with `multiSelect: true`) so the user can pick any subset of:
+
+   `news`, `twitter`, `github`, `reddit`, `youtube`, `product_hunt`, `skill`, `blog`, `paper`, `event`
+
+   Plus an `all` shortcut. Show a one-line description of each so the user knows what they're picking. If the user says "everything" or "all", treat as `all`.
+
+2. **Ask the delivery frequency.** Single-select:
+
+   - `once` — fetch immediately and return the result.
+   - `daily` — fetch now AND propose setting up a recurring task. In Claude Code, suggest the `/schedule` skill (cron) or `/loop` (interval). For other host agents, surface their equivalent or tell the user how to re-invoke.
+   - `weekly` — same idea, weekly cadence.
+
+3. Once the user has answered, fetch the selected feeds in parallel and present a single combined report grouped by category. If they chose `daily`/`weekly`, ALSO offer to set up the recurring schedule before exiting — don't silently leave it as a one-shot.
+
+If the user provides explicit args (e.g., `/agentic-brew news --limit 5`), skip the questions entirely and execute directly per the Usage section.
+
+## Steps (direct invocation)
 
 1. Resolve the feed URL from the chosen feed name. If the argument is invalid, abort and tell the user the valid options.
 2. Run the fetch + parse one-liner below. It uses the Python stdlib only (`urllib`, `xml.etree`) — no extra installs.
