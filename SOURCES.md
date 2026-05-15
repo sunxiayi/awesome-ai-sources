@@ -2,7 +2,7 @@
 
 This is the public source library behind [Agentic Brew](https://www.agenticbrew.ai). Browse curated company sources, independent blogs, AI news sites, research trackers, and social accounts worth following.
 
-## Company & Lab Sources (49)
+## Company & Lab Sources (62)
 
 - [a16z News](https://a16z.news): Curated blog source covering AI, software, startups, or technical product development.
 - [Airbnb Engineering](https://medium.com/airbnb-engineering): Engineering blog covering infrastructure, product systems, and applied AI work.
@@ -13,6 +13,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Anthropic Research](https://anthropic.com/research): Anthropic research and safety writing on model behavior, evals, and frontier systems.
 - [AWS Machine Learning Blog](https://aws.amazon.com): Official AWS machine learning publication with cloud and applied AI updates.
 - [BAIR Blog](https://bair.berkeley.edu/blog): Berkeley AI Research's lab blog with explainers, project writeups, and research context.
+- [Bank of America Institute Transformation](https://institute.bankofamerica.com): Bank of America Institute research on AI, automation, robotics, infrastructure, and technology-driven business transformation.
 - [Berkeley AI Research](https://bair.berkeley.edu): Official BAIR research source for papers, projects, and lab activity.
 - [Claude Blog](https://claude.com): Claude product updates, applied workflows, and practical guidance for teams building with Claude.
 - [Cloudflare Blog](https://blog.cloudflare.com): Curated blog source covering AI, software, startups, or technical product development.
@@ -27,40 +28,53 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Fast.ai Blog](https://fast.ai): Fast.ai's teaching-focused writing on deep learning practice and accessible research.
 - [Figma Engineering](https://figma.com/blog): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Firecrawl Blog](https://firecrawl.dev): Curated blog source covering AI, software, startups, or technical product development.
+- [Goldman Sachs Global Institute](https://goldmansachs.com): Goldman Sachs Global Institute research and essays on geopolitics, markets, AI, energy, and long-term economic change.
+- [Goldman Sachs Insights](https://goldmansachs.com): Analysis and perspectives on markets, macroeconomics, technology, artificial intelligence, and global business from Goldman Sachs.
 - [Google AI Blog](https://ai.googleblog.com): Google's long-running AI blog with research, product, and platform updates.
 - [Google Blog](https://blog.google): Official Google publication covering products, platforms, and AI initiatives.
+- [Google Cloud Blog — AI & ML](https://cloud.google.com): Google Cloud official blog — AI & Machine Learning category. Covers Vertex AI, Gemini on Vertex, agents, model launches, and customer AI case studies.
+- [Google Cloud Blog — Compute](https://cloud.google.com): Google Cloud official blog — Compute category. Includes TPU launches (Trillium, Ironwood), GPU instances (A3/A4), AI Hypercomputer, and accelerator hardware.
+- [Google Cloud Blog — Infrastructure](https://cloud.google.com): Google Cloud official blog — Infrastructure category. AI-optimized networking, data center fabric (e.g., Virgo), clusters, and supercomputing for AI workloads.
 - [Google DeepMind](https://deepmind.google): Official Google DeepMind blog covering frontier models, products, and lab updates.
 - [Google Technology Blog](https://blog.google/technology/ai): Google product and engineering news with strong AI and platform coverage.
 - [Hacker News Show HN](https://news.ycombinator.com): Show HN launch posts surfaced as a builder-story feed for early AI product signal.
 - [Hugging Face Blog](https://huggingface.co/blog): Official Hugging Face blog for open-source models, tooling, and applied AI tutorials.
 - [Indie Hackers Blog](https://indiehackers.com): Curated blog source covering AI, software, startups, or technical product development.
+- [J.P. Morgan AI Insights](https://jpmorgan.com): J.P. Morgan insights on artificial intelligence, technology markets, startups, investment themes, and business transformation.
+- [J.P. Morgan Asset Management AI](https://am.jpmorgan.com): J.P. Morgan Asset Management market views on artificial intelligence, productivity, infrastructure, and investment opportunities.
 - [LangChain Blog](https://www.langchain.com): Curated blog source covering AI, software, startups, or technical product development.
 - [McKinsey Blog](https://mckinsey.com): Curated blog source covering AI, software, startups, or technical product development.
 - [Meta AI Blog](https://ai.meta.com/blog): Meta's AI-focused announcements, research summaries, and product direction.
 - [Meta Engineering](https://ai.meta.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Microsoft Official Blog](https://blogs.microsoft.com/ai): Official Microsoft company blog with product, platform, and AI announcements.
 - [Microsoft Research AI](https://microsoft.com): Microsoft Research feed covering AI papers, labs, and technical work.
+- [Morgan Stanley Insights](https://morganstanley.com): Morgan Stanley market, technology, AI, investment, and thematic research insights from across the firm.
 - [NVIDIA AI Blog](https://blogs.nvidia.com): Official NVIDIA feed for AI platform news, launches, and ecosystem updates.
 - [OpenAI Blog](https://openai.com/blog): Official OpenAI product and company updates, launches, and platform announcements.
 - [OpenAI Engineering](https://openai.com): OpenAI posts on systems, infrastructure, and engineering decisions behind productized AI.
 - [OpenAI Research](https://openai.com/research): OpenAI research updates, technical notes, and frontier model announcements.
+- [OpenClaw Blog](https://openclaw.ai): Official OpenClaw blog with product updates, security notes, release retrospectives, and ecosystem announcements for the open-source personal AI agent project.
+- [Pirate Wires Technology](https://www.piratewires.com): Pirate Wires technology coverage tracks Silicon Valley, AI, startups, hard tech, and tech policy.
 - [Scale AI Edge](https://scale.com/blog): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Sequoia Capital](https://sequoiacap.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Stanford AI Lab](https://ai.stanford.edu): Stanford AI Lab updates and research visibility for academic work.
 - [Stanford HAI](https://hai.stanford.edu): Stanford Human-Centered AI updates spanning research, policy, and institute activity.
 - [Supabase Blog](https://supabase.com/blog): Curated blog source covering AI, software, startups, or technical product development.
+- [The Diligence Stack](https://thediligencestack.com): Creative Strategies publishes analyst-grade technology intelligence from silicon architecture to software strategy and business models.
 - [The Neuron AI](https://theneuron.ai): Fast-moving AI newsletter focused on product launches, company moves, and practical trends.
 - [Uber Engineering](https://www.uber.com/en-US/blog/engineering): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [UBS Global Research](https://ubs.com): UBS Investment Bank research insights and data-driven views on markets, sectors, AI, and global investment themes.
 - [VentureBeat AI](https://venturebeat.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Vercel Blog](https://vercel.com/blog): Curated blog source covering AI, software, startups, or technical product development.
 
-## Individual Blogs (31)
+## Individual Blogs (36)
 
 - [Andrej Karpathy](https://karpathy.bearblog.dev): Andrej Karpathy's writing on neural networks, LLMs, education, and AI intuition.
 - [Artificial Corner (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
 - [Becoming Human: AI Magazine (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
 - [Ben's Bites](https://bensbites.com): Daily AI newsletter summarizing notable launches, papers, and market movement.
 - [ByteByteGo](https://blog.bytebytego.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Chamath Palihapitiya](https://chamath.substack.com): Chamath Palihapitiya shares reading notes and analysis on disruptive technology, markets, startups, and geopolitics.
 - [Chip Huyen](https://huyenchip.com): Chip Huyen's practical writing on MLOps, agents, inference, and AI product design.
 - [Chris Olah](https://colah.github.io): Chris Olah's classic long-form essays on interpretability, neural networks, and research taste.
 - [Data Science Collective (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
@@ -79,14 +93,18 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Philipp Schmid](https://philschmid.de): Philipp Schmid's hands-on guides for training, fine-tuning, and deploying open models.
 - [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Engineering and industry analysis from Gergely Orosz, including AI tooling and developer trends.
 - [Pragmaticengineer Substack](https://pragmaticengineer.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
+- [Product Growth](https://www.news.aakashg.com): Aakash Gupta publishes product management, product leadership, growth, and AI product career deep dives.
 - [Sander Dieleman](https://sander.ai): Sander Dieleman's deep technical essays on generative models, audio, and machine learning research.
 - [Sebastian Raschka](https://magazine.sebastianraschka.com): Sebastian Raschka's technical writing on LLMs, machine learning, and model-building practice.
 - [Sebastian Ruder](https://ruder.io): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
-- [SemiAnalysis](https://newsletter.semianalysis.com): Independent industry analysis focused on semiconductors, compute, and frontier AI economics.
+- [SemiAnalysis](https://newsletter.semianalysis.com): Dylan Patel's SemiAnalysis covers semiconductors, compute infrastructure, and frontier AI economics.
 - [Semianalysis Substack](https://semianalysis.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
 - [Simon Willison](https://simonwillison.net): Independent writing on LLM tools, prompting, evaluation, and practical AI engineering.
+- [The AI Corner](https://www.the-ai-corner.com): Ruben Dominguez writes practical AI workflows, prompts, and tools for founders and operators.
 - [The Gradient](https://thegradient.pub): Editorial publication featuring accessible essays from researchers and practitioners in ML.
+- [The Product Compass](https://www.productcompass.pm): Pawel Huryn publishes AI and product management playbooks, resources, and product sense guidance.
 - [Towards AI (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
+- [Vik's Newsletter](https://www.viksnewsletter.com): Vikram Sekar analyzes AI infrastructure across photonics, memory, interconnects, power, and packaging.
 
 ## AI News & Analysis Sites (44)
 
@@ -140,7 +158,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [AlphaXiv Trending](https://alphaxiv.org): Trending arXiv research surfaced for fast monitoring of academic AI momentum.
 - [HuggingFace Daily Papers](https://huggingface.co): Daily paper feed from Hugging Face highlighting current ML research.
 
-## Social Accounts to Follow (83)
+## Social Accounts to Follow (89)
 
 ### X (33)
 
@@ -217,19 +235,25 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [ycombinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg): Y Combinator's channel, useful for startup, builder, and occasional AI company signal.
 - [Zubair Trabzada | AI Workshop](https://www.youtube.com/channel/UC2b2wgxm0vFjQfJJ0iRcFRw): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 
-### Reddit (14)
+### Reddit (20)
 
+- [r/accelerate](https://www.reddit.com/r/accelerate/): Community focused on accelerationism and the pace of AI / technology progress.
 - [r/AI_Agents](https://www.reddit.com/r/AI_Agents/): Reddit community focused on autonomous agents, workflows, and tooling experiments.
+- [r/AIToolMadeEasy](https://www.reddit.com/r/AIToolMadeEasy/): Subreddit covering tutorials, recommendations, and discussions of consumer AI tools.
+- [r/Anthropic](https://www.reddit.com/r/Anthropic/): Subreddit dedicated to Anthropic, Claude, and related research.
 - [r/artificial](https://www.reddit.com/r/artificial/): Large Reddit community for AI news, discussion, and community reaction.
 - [r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
 - [r/Automate](https://www.reddit.com/r/Automate/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
 - [r/ChatGPT](https://www.reddit.com/r/ChatGPT/): Reddit community tracking ChatGPT usage patterns, prompts, and launch reactions.
 - [r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
+- [r/claude](https://www.reddit.com/r/claude/): Community for users of Claude, sharing prompts, workflows, and tips.
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/): Reddit community focused on Claude usage, prompts, and ecosystem discussion.
 - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/): Reddit community focused on open models, local inference, and hands-on experimentation.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/): Long-running ML research community on Reddit for papers, experiments, and discussion.
+- [r/OpenAI](https://www.reddit.com/r/OpenAI/): Subreddit for OpenAI, ChatGPT, GPT-models, and related products.
 - [r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/): Reddit community centered on prompts, workflows, and LLM experimentation.
 - [r/SideProject](https://www.reddit.com/r/SideProject/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
 - [r/singularity](https://www.reddit.com/r/singularity/): Reddit community monitored for discussion, experiments, and grassroots builder signal.
+- [r/technology](https://www.reddit.com/r/technology/): Long-running general-technology subreddit covering tech news and policy.
 - [r/vibecoding](https://www.reddit.com/r/vibecoding/): Reddit community tracking AI-assisted coding culture, experiments, and builder chatter.
