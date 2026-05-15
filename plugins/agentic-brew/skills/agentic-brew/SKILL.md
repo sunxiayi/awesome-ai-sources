@@ -56,7 +56,15 @@ This skill covers a lot of ground — 11 feeds spanning news, social, papers, ev
    - `daily` — fetch now AND propose setting up a recurring task. In Claude Code, suggest the `/schedule` skill (cron) or `/loop` (interval). For other host agents, surface their equivalent or tell the user how to re-invoke.
    - `weekly` — same idea, weekly cadence.
 
-3. Once the user has answered, fetch the selected feeds in parallel and present a single combined report grouped by category. If they chose `daily`/`weekly`, ALSO offer to set up the recurring schedule before exiting — don't silently leave it as a one-shot.
+3. **Ask how much detail to include per item.** Single-select:
+
+   - `headlines` — title only. Compact list, just "what happened."
+   - `summary` — title + the AI-generated summary / overview / engagement stats (whichever the feed provides) + the source link. The default Agentic Brew item shape.
+   - `detailed` — title + full description (no truncation) + source link + any `content:encoded` inner content (e.g., tweet list for twitter, overview bullets for news) + the `<category>` tags.
+
+   To apply the choice: fetch with `--json` internally, then format the items per the chosen detail level. Do NOT pass `--limit` so low that you lose information the user asked for — only `--limit` controls *how many* items, not how *deep* each one goes.
+
+4. Once the user has answered all three, fetch the selected feeds in parallel and present a single combined report grouped by category, formatted at the chosen detail level. If they chose `daily`/`weekly`, ALSO offer to set up the recurring schedule before exiting — don't silently leave it as a one-shot.
 
 If the user provides explicit args (e.g., `/agentic-brew news --limit 5`), skip the questions entirely and execute directly per the Usage section.
 
