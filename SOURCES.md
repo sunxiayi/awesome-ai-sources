@@ -2,31 +2,30 @@
 
 This is the public source library behind [Agentic Brew](https://www.agenticbrew.ai). Browse curated company sources, independent blogs, AI news sites, research trackers, and social accounts worth following.
 
-## Company & Lab Sources (62)
+## Company & Lab Sources (60)
 
 - [a16z News](https://a16z.news): Curated blog source covering AI, software, startups, or technical product development.
-- [Airbnb Engineering](https://medium.com/airbnb-engineering): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [Airbnb Engineering](https://medium.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Alibaba Cloud Engineering](https://alibabacloud.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Amazon Engineering](https://aws.amazon.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Anthropic Engineering](https://anthropic.com): Anthropic engineering deep-dives on Claude, agents, evals, infrastructure, and applied AI systems.
-- [Anthropic News](https://anthropic.com/news): Official Anthropic announcements for Claude, APIs, safety work, and company updates.
-- [Anthropic Research](https://anthropic.com/research): Anthropic research and safety writing on model behavior, evals, and frontier systems.
+- [Anthropic News](https://anthropic.com): Official Anthropic announcements for Claude, APIs, safety work, and company updates.
+- [Anthropic Research](https://anthropic.com): Anthropic research and safety writing on model behavior, evals, and frontier systems.
 - [AWS Machine Learning Blog](https://aws.amazon.com): Official AWS machine learning publication with cloud and applied AI updates.
-- [BAIR Blog](https://bair.berkeley.edu/blog): Berkeley AI Research's lab blog with explainers, project writeups, and research context.
-- [Bank of America Institute Transformation](https://institute.bankofamerica.com): Bank of America Institute research on AI, automation, robotics, infrastructure, and technology-driven business transformation.
+- [BAIR Blog](https://bair.berkeley.edu): Berkeley AI Research's lab blog with explainers, project writeups, and research context.
 - [Berkeley AI Research](https://bair.berkeley.edu): Official BAIR research source for papers, projects, and lab activity.
 - [Claude Blog](https://claude.com): Claude product updates, applied workflows, and practical guidance for teams building with Claude.
 - [Cloudflare Blog](https://blog.cloudflare.com): Curated blog source covering AI, software, startups, or technical product development.
 - [CMU Machine Learning Blog](https://blog.ml.cmu.edu): CMU's machine learning blog covering methods, projects, and research perspectives.
-- [Cursor Blog](https://cursor.com/blog): Curated blog source covering AI, software, startups, or technical product development.
+- [Cursor Blog](https://cursor.com): Curated blog source covering AI, software, startups, or technical product development.
 - [Cursor Engineering](https://cursor.sh): Engineering blog covering infrastructure, product systems, and applied AI work.
-- [Databricks Engineering](https://databricks.com/blog/category/engineering): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [Databricks Engineering](https://databricks.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [DeepMind Blog](https://deepmind.google): Official DeepMind publication covering research, products, and lab milestones.
 - [Engineering at Meta](https://engineering.fb.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Epoch AI](https://epoch.ai): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Every](https://every.to): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Fast.ai Blog](https://fast.ai): Fast.ai's teaching-focused writing on deep learning practice and accessible research.
-- [Figma Engineering](https://figma.com/blog): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [Figma Engineering](https://figma.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Firecrawl Blog](https://firecrawl.dev): Curated blog source covering AI, software, startups, or technical product development.
 - [Goldman Sachs Global Institute](https://goldmansachs.com): Goldman Sachs Global Institute research and essays on geopolitics, markets, AI, energy, and long-term economic change.
 - [Goldman Sachs Insights](https://goldmansachs.com): Analysis and perspectives on markets, macroeconomics, technology, artificial intelligence, and global business from Goldman Sachs.
@@ -36,36 +35,35 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Google Cloud Blog — Compute](https://cloud.google.com): Google Cloud official blog — Compute category. Includes TPU launches (Trillium, Ironwood), GPU instances (A3/A4), AI Hypercomputer, and accelerator hardware.
 - [Google Cloud Blog — Infrastructure](https://cloud.google.com): Google Cloud official blog — Infrastructure category. AI-optimized networking, data center fabric (e.g., Virgo), clusters, and supercomputing for AI workloads.
 - [Google DeepMind](https://deepmind.google): Official Google DeepMind blog covering frontier models, products, and lab updates.
-- [Google Technology Blog](https://blog.google/technology/ai): Google product and engineering news with strong AI and platform coverage.
+- [Google Technology Blog](https://blog.google): Google product and engineering news with strong AI and platform coverage.
 - [Hacker News Show HN](https://news.ycombinator.com): Show HN launch posts surfaced as a builder-story feed for early AI product signal.
-- [Hugging Face Blog](https://huggingface.co/blog): Official Hugging Face blog for open-source models, tooling, and applied AI tutorials.
+- [Hugging Face Blog](https://huggingface.co): Official Hugging Face blog for open-source models, tooling, and applied AI tutorials.
 - [Indie Hackers Blog](https://indiehackers.com): Curated blog source covering AI, software, startups, or technical product development.
 - [J.P. Morgan AI Insights](https://jpmorgan.com): J.P. Morgan insights on artificial intelligence, technology markets, startups, investment themes, and business transformation.
 - [J.P. Morgan Asset Management AI](https://am.jpmorgan.com): J.P. Morgan Asset Management market views on artificial intelligence, productivity, infrastructure, and investment opportunities.
-- [LangChain Blog](https://www.langchain.com): Curated blog source covering AI, software, startups, or technical product development.
-- [McKinsey Blog](https://mckinsey.com): Curated blog source covering AI, software, startups, or technical product development.
-- [Meta AI Blog](https://ai.meta.com/blog): Meta's AI-focused announcements, research summaries, and product direction.
+- [LangChain Blog](https://langchain.com): Curated blog source covering AI, software, startups, or technical product development.
+- [Meta AI Blog](https://ai.meta.com): Meta's AI-focused announcements, research summaries, and product direction.
 - [Meta Engineering](https://ai.meta.com): Engineering blog covering infrastructure, product systems, and applied AI work.
-- [Microsoft Official Blog](https://blogs.microsoft.com/ai): Official Microsoft company blog with product, platform, and AI announcements.
+- [Microsoft Official Blog](https://blogs.microsoft.com): Official Microsoft company blog with product, platform, and AI announcements.
 - [Microsoft Research AI](https://microsoft.com): Microsoft Research feed covering AI papers, labs, and technical work.
 - [Morgan Stanley Insights](https://morganstanley.com): Morgan Stanley market, technology, AI, investment, and thematic research insights from across the firm.
 - [NVIDIA AI Blog](https://blogs.nvidia.com): Official NVIDIA feed for AI platform news, launches, and ecosystem updates.
-- [OpenAI Blog](https://openai.com/blog): Official OpenAI product and company updates, launches, and platform announcements.
+- [OpenAI Blog](https://openai.com): Official OpenAI product and company updates, launches, and platform announcements.
 - [OpenAI Engineering](https://openai.com): OpenAI posts on systems, infrastructure, and engineering decisions behind productized AI.
-- [OpenAI Research](https://openai.com/research): OpenAI research updates, technical notes, and frontier model announcements.
+- [OpenAI Research](https://openai.com): OpenAI research updates, technical notes, and frontier model announcements.
 - [OpenClaw Blog](https://openclaw.ai): Official OpenClaw blog with product updates, security notes, release retrospectives, and ecosystem announcements for the open-source personal AI agent project.
-- [Pirate Wires Technology](https://www.piratewires.com): Pirate Wires technology coverage tracks Silicon Valley, AI, startups, hard tech, and tech policy.
-- [Scale AI Edge](https://scale.com/blog): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Pirate Wires Technology](https://piratewires.com): Pirate Wires technology coverage tracks Silicon Valley, AI, startups, hard tech, and tech policy.
+- [Scale AI Edge](https://scale.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Sequoia Capital](https://sequoiacap.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Stanford AI Lab](https://ai.stanford.edu): Stanford AI Lab updates and research visibility for academic work.
 - [Stanford HAI](https://hai.stanford.edu): Stanford Human-Centered AI updates spanning research, policy, and institute activity.
-- [Supabase Blog](https://supabase.com/blog): Curated blog source covering AI, software, startups, or technical product development.
+- [Supabase Blog](https://supabase.com): Curated blog source covering AI, software, startups, or technical product development.
 - [The Diligence Stack](https://thediligencestack.com): Creative Strategies publishes analyst-grade technology intelligence from silicon architecture to software strategy and business models.
 - [The Neuron AI](https://theneuron.ai): Fast-moving AI newsletter focused on product launches, company moves, and practical trends.
-- [Uber Engineering](https://www.uber.com/en-US/blog/engineering): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [Uber Engineering](https://uber.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [UBS Global Research](https://ubs.com): UBS Investment Bank research insights and data-driven views on markets, sectors, AI, and global investment themes.
 - [VentureBeat AI](https://venturebeat.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
-- [Vercel Blog](https://vercel.com/blog): Curated blog source covering AI, software, startups, or technical product development.
+- [Vercel Blog](https://vercel.com): Curated blog source covering AI, software, startups, or technical product development.
 
 ## Individual Blogs (36)
 
@@ -93,29 +91,30 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Philipp Schmid](https://philschmid.de): Philipp Schmid's hands-on guides for training, fine-tuning, and deploying open models.
 - [Pragmatic Engineer](https://newsletter.pragmaticengineer.com): Engineering and industry analysis from Gergely Orosz, including AI tooling and developer trends.
 - [Pragmaticengineer Substack](https://pragmaticengineer.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
-- [Product Growth](https://www.news.aakashg.com): Aakash Gupta publishes product management, product leadership, growth, and AI product career deep dives.
+- [Product Growth](https://news.aakashg.com): Aakash Gupta publishes product management, product leadership, growth, and AI product career deep dives.
 - [Sander Dieleman](https://sander.ai): Sander Dieleman's deep technical essays on generative models, audio, and machine learning research.
 - [Sebastian Raschka](https://magazine.sebastianraschka.com): Sebastian Raschka's technical writing on LLMs, machine learning, and model-building practice.
 - [Sebastian Ruder](https://ruder.io): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [SemiAnalysis](https://newsletter.semianalysis.com): Dylan Patel's SemiAnalysis covers semiconductors, compute infrastructure, and frontier AI economics.
 - [Semianalysis Substack](https://semianalysis.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
 - [Simon Willison](https://simonwillison.net): Independent writing on LLM tools, prompting, evaluation, and practical AI engineering.
-- [The AI Corner](https://www.the-ai-corner.com): Ruben Dominguez writes practical AI workflows, prompts, and tools for founders and operators.
+- [The AI Corner](https://the-ai-corner.com): Ruben Dominguez writes practical AI workflows, prompts, and tools for founders and operators.
 - [The Gradient](https://thegradient.pub): Editorial publication featuring accessible essays from researchers and practitioners in ML.
-- [The Product Compass](https://www.productcompass.pm): Pawel Huryn publishes AI and product management playbooks, resources, and product sense guidance.
+- [The Product Compass](https://productcompass.pm): Pawel Huryn publishes AI and product management playbooks, resources, and product sense guidance.
 - [Towards AI (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
-- [Vik's Newsletter](https://www.viksnewsletter.com): Vikram Sekar analyzes AI infrastructure across photonics, memory, interconnects, power, and packaging.
+- [Vik's Newsletter](https://viksnewsletter.com): Vikram Sekar analyzes AI infrastructure across photonics, memory, interconnects, power, and packaging.
 
-## AI News & Analysis Sites (44)
+## AI News & Analysis Sites (48)
 
 - [AI Business](https://aibusiness.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [AI Valley](https://theaivalley.com): News source focused on artificial intelligence, model launches, and industry developments.
-- [Ars Technica](https://arstechnica.com/ai): Technology or business news source that regularly covers AI, software, and startup movement.
+- [Ars Technica](https://arstechnica.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [BestBlogs](https://bestblogs.dev): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Bloomberg Technology](https://bloomberg.com): Business and markets publication with a dedicated technology desk and AI coverage.
 - [Business Insider Tech](https://businessinsider.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [CBS News AI](https://cbsnews.com): General newsroom with AI explainers, consumer stories, and product coverage.
 - [CNBC Technology](https://cnbc.com): Business newsroom covering major AI companies, products, and markets.
+- [CommonWealth Magazine](https://english.cw.com.tw): English-language coverage of business, technology, and policy from Taiwan's leading business publication CommonWealth Magazine.
 - [Digital Trends AI](https://digitaltrends.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [EE Times](https://eetimes.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [eWeek](https://eweek.com): Technology or business news source that regularly covers AI, software, and startup movement.
@@ -123,21 +122,24 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Fox Business Technology](https://foxbusiness.com): Business news source covering AI company announcements and market narratives.
 - [Hacker News](https://news.ycombinator.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [HPCwire](https://hpcwire.com): Technology or business news source that regularly covers AI, software, and startup movement.
-- [IEEE Spectrum](https://spectrum.ieee.org/ai): Engineering publication covering AI, robotics, hardware, and industrial technology.
+- [IEEE Spectrum](https://spectrum.ieee.org): Engineering publication covering AI, robotics, hardware, and industrial technology.
 - [Indie Hackers](https://indiehackers.com): Technology or business news source that regularly covers AI, software, and startup movement.
+- [InfoQ](https://infoq.com): Developer-focused news channel from InfoQ covering AI, ML, data engineering, and applied software practice.
 - [InfoQ AI/ML](https://infoq.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [InfoWorld](https://infoworld.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [MarkTechPost](https://marktechpost.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [MIT AI News](https://news.mit.edu): News source focused on artificial intelligence, model launches, and industry developments.
-- [MIT Technology Review](https://technologyreview.com/ai): Technology publication known for higher-context reporting on AI and policy.
+- [MIT Technology Review](https://technologyreview.com): Technology publication known for higher-context reporting on AI and policy.
 - [NBC News Tech](https://nbcnews.com): General newsroom with technology coverage including AI products and media narratives.
 - [NYT Technology](https://nytimes.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Seeking Alpha](https://seekingalpha.com): Technology or business news source that regularly covers AI, software, and startup movement.
+- [Semafor](https://semafor.com): Global news startup launched in 2022 by Ben Smith and Justin Smith, with a Technology vertical covering AI, big tech, and semiconductors.
 - [SiliconANGLE](https://siliconangle.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [SiliconANGLE AI](https://siliconangle.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [Superhuman AI](https://superhuman.ai): News source focused on artificial intelligence, model launches, and industry developments.
-- [TechCrunch](https://techcrunch.com/ai): General tech newsroom with substantial coverage of AI startups, funding, and launches.
+- [TechCrunch](https://techcrunch.com): General tech newsroom with substantial coverage of AI startups, funding, and launches.
 - [Techmeme](https://techmeme.com): Fast-moving technology aggregator useful for headline-level AI and startup awareness.
+- [TestingCatalog](https://testingcatalog.com): Independent AI news outlet covering announcements, leaks, and product developments across ChatGPT, Claude, Gemini, Copilot, and AI agents.
 - [The AI Valley](https://theaivalley.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [The Guardian AI](https://theguardian.com): Broad news publication with AI, policy, labor, and culture reporting.
 - [The Guardian Technology](https://theguardian.com): Broad news publication with AI, policy, labor, and culture reporting.
@@ -147,9 +149,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [The Register](https://theregister.com): Skeptical enterprise-tech publication with strong AI infrastructure and ops coverage.
 - [The Rundown AI](https://therundown.ai): News source focused on artificial intelligence, model launches, and industry developments.
 - [The Tech Buzz](https://techbuzz.ai): Technology or business news source that regularly covers AI, software, and startup movement.
-- [The Verge](https://theverge.com/ai): Consumer and platform-focused technology publication with broad AI coverage.
+- [The Verge](https://theverge.com): Consumer and platform-focused technology publication with broad AI coverage.
 - [TLDR Newsletter](https://tldr.tech): Technology or business news source that regularly covers AI, software, and startup movement.
-- [Wired](https://wired.com/ai): Broad technology and culture magazine that regularly covers AI companies and products.
+- [Wired](https://wired.com): Broad technology and culture magazine that regularly covers AI companies and products.
 - [WSJ Technology](https://wsj.com): Mainstream business publication covering AI companies, policy, and market impact.
 - [Yahoo Finance Tech](https://yahoo.com): Markets-focused outlet that often surfaces public-company AI moves and reactions.
 
