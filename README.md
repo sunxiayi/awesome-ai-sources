@@ -127,6 +127,10 @@ Auto-discovery `<link rel="alternate" type="application/rss+xml">` tags for all 
 
 The plugin's skill definition (a single markdown file with frontmatter and a small bash + Python parsing snippet) lives at [`plugins/ai-news-radar/skills/ai-news-radar/SKILL.md`](plugins/ai-news-radar/skills/ai-news-radar/SKILL.md). If your agent framework supports skill / instruction files (OpenClaw, Hermes, custom harnesses, etc.), point it at that file or copy the snippet into your own tool format. The skill is self-contained — no external dependencies beyond Python's stdlib.
 
+### Optional X/Twitter source review
+
+When reviewing new X/Twitter accounts or topic feeds for this directory, [TweetClaw](https://github.com/Xquik-dev/tweetclaw) can help agent workflows collect search results, profiles, follower exports, monitors, and approval-gated posting context before sources are added to `SOURCES.md`.
+
 ## 7. Use The Product
 
 Visit [agenticbrew.ai](https://www.agenticbrew.ai) to use Agentic Brew.
