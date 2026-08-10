@@ -11,12 +11,12 @@ This repository publishes the sources behind [Agentic Brew](https://www.agenticb
 The list is free to browse and use. [Agentic Brew](https://www.agenticbrew.ai) is the product built on top of it, with context, visuals, community signals, and historical background added to the important AI stories.
 
 Current inventory:
-- 845 public sources
+- 821 public sources
 - 106 company & lab sources
 - 90 individual blogs
 - 124 AI news & analysis sites
 - 2 research feeds & paper trackers
-- 523 social accounts and communities
+- 499 social accounts and communities
 
 This repository is updated weekly.
 
