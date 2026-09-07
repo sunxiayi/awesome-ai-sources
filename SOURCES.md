@@ -22,10 +22,10 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [BAIR Blog](https://bair.berkeley.edu): Berkeley AI Research's lab blog with explainers, project writeups, and research context.
 - [Baseten](https://baseten.co): Baseten's engineering blog on model inference, deployment, and optimization for production AI systems.
 - [Berkeley AI Research](https://bair.berkeley.edu): Official BAIR research source for papers, projects, and lab activity.
-- [Blog](https://blog.doubleword.ai): Doubleword's engineering blog covers GPU architecture, LLM inference optimization, and serving.
-- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
-- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
 - [Blog](https://blog.modelcontextprotocol.io): Official blog of the Model Context Protocol covering specification releases, SDK milestones, and roadmap updates.
+- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
+- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
+- [Blog](https://blog.doubleword.ai): Doubleword's engineering blog covers GPU architecture, LLM inference optimization, and serving.
 - [Blog](https://blog.comfy.org): ComfyUI's blog covers generative AI model integrations, open-weight releases, and creative tooling.
 - [Blog](https://blog.pebblous.ai): Pebblous blog publishing empirical investigations into AI model evaluation, data quality, and enterprise AI adoption.
 - [blog.owulveryck.info](https://blog.owulveryck.info): Independent engineering blog covering agentic AI development, governance, and platform design patterns.
@@ -411,8 +411,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [The New Stack](https://thenewstack.io): Developer-focused publication covering cloud, data, platforms, and AI engineering.
 - [The Next Web](https://thenextweb.com): The Next Web's dedicated AI feed covering industry news, product launches, and analysis.
 - [The Register](https://theregister.com): Skeptical enterprise-tech publication with strong AI infrastructure and ops coverage.
-- [The Rundown AI](https://rss.beehiiv.com): The Rundown AI delivers a daily 5-minute briefing on AI news, tools, and practical use cases.
 - [The Rundown AI](https://therundown.ai): News source focused on artificial intelligence, model launches, and industry developments.
+- [The Rundown AI](https://rss.beehiiv.com): The Rundown AI delivers a daily 5-minute briefing on AI news, tools, and practical use cases.
 - [The Tech Buzz](https://techbuzz.ai): Technology or business news source that regularly covers AI, software, and startup movement.
 - [The Verge](https://theverge.com): Consumer and platform-focused technology publication with broad AI coverage.
 - [Theaieconomy](https://theaieconomy.substack.com): Newsletter tracking enterprise AI adoption, agent platforms, and business applications of generative AI.
