@@ -2,40 +2,44 @@
 
 This is the public source library behind [Agentic Brew](https://www.agenticbrew.ai). Browse curated company sources, independent blogs, AI news sites, research trackers, and social accounts worth following.
 
-## Company & Lab Sources (192)
+## Company & Lab Sources (212)
 
 - [A16z](https://a16z.com): a16z's AI hub publishes essays, podcasts, and market analysis on the AI industry.
 - [a16z News](https://a16z.news): Curated blog source covering AI, software, startups, or technical product development.
+- [Aboutamazon](https://aboutamazon.com): Amazon's official news hub for its artificial intelligence products, AWS AI services, and company-wide AI initiatives.
 - [addyosmani.com](https://addyosmani.com): Addy Osmani's blog on agentic AI engineering, coding agents, and the software development lifecycle.
 - [Agibot](https://agibot.com): AGIBOT's newsroom covering announcements from the Chinese humanoid robotics and embodied AI company.
 - [Airbnb Engineering](https://medium.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Aisi](https://aisi.gov.uk): UK AI Safety Institute publishes technical research on frontier model evaluations and red-teaming.
 - [Aleph Alpha](https://aleph-alpha.com): Aleph Alpha's blog shares research, engineering updates, and perspectives from the European frontier AI lab.
 - [Alibaba Cloud Blog](https://alibabacloud.com): Alibaba Cloud international blog, including Qwen, AI infrastructure, GenAI, agents, and cloud AI updates.
-- [Alignment](https://alignment.anthropic.com): Anthropic's Alignment Science blog publishes the company's AI safety and alignment research.
 - [Alignment](https://alignment.openai.com): OpenAI's alignment research blog publishing technical papers on AI safety, interpretability, and agent oversight.
+- [Alignment](https://alignment.anthropic.com): Anthropic's Alignment Science blog publishes the company's AI safety and alignment research.
 - [Allenai](https://allenai.org): Allen Institute for AI's official blog covering open language models, research infrastructure, and AI for science.
 - [Amazon](https://amazon.science): Amazon Science publishes original research articles and explainers on AI, machine learning, and related fields.
 - [Amazon Engineering](https://aws.amazon.com): Engineering blog covering infrastructure, product systems, and applied AI work.
+- [Amd](https://newsroom.amd.com): AMD Newsroom publishes the company's official press releases and announcements on AI chips and infrastructure.
 - [Anth](https://anth.us): Anthus, an AI engineering firm unrelated to Anthropic, publishes technical analysis on decision models and AI classifiers.
 - [Anthropic Engineering](https://anthropic.com): Anthropic engineering deep-dives on Claude, agents, evals, infrastructure, and applied AI systems.
 - [Anthropic News](https://anthropic.com): Official Anthropic announcements for Claude, APIs, safety work, and company updates.
 - [Anthropic Research](https://anthropic.com): Anthropic research and safety writing on model behavior, evals, and frontier systems.
 - [Arcprize](https://arcprize.org): ARC Prize's blog documenting AGI benchmark results, competition updates, and reasoning model analysis.
 - [Artificialintelligenceact](https://artificialintelligenceact.eu): Future of Life Institute resource explaining EU AI Act provisions, enforcement, and compliance guidance.
+- [Artificiallyintimidating](https://artificiallyintimidating.com): Artificially Intimidating is a daily AI news brief by Nicholas Rhodes summarizing five top industry stories each morning.
 - [AWS Machine Learning Blog](https://aws.amazon.com): Official AWS machine learning publication with cloud and applied AI updates.
 - [BAIR Blog](https://bair.berkeley.edu): Berkeley AI Research's lab blog with explainers, project writeups, and research context.
 - [Baseten](https://baseten.co): Baseten's engineering blog on model inference, deployment, and optimization for production AI systems.
+- [Bensbites Substack](https://bensbites.com): Ben's Bites delivers a daily roundup of AI news, tools, and funding with concise original commentary.
 - [Berkeley AI Research](https://bair.berkeley.edu): Official BAIR research source for papers, projects, and lab activity.
-- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
 - [Blog](https://blog.modelcontextprotocol.io): Official blog of the Model Context Protocol covering specification releases, SDK milestones, and roadmap updates.
-- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
-- [Blog](https://blog.doubleword.ai): Doubleword's engineering blog covers GPU architecture, LLM inference optimization, and serving.
-- [Blog](https://blog.redwoodresearch.org): Redwood Research's blog shares original technical research on catastrophic AI risks and mitigation techniques.
 - [Blog](https://blog.character.ai): Character.AI's official company blog announcing product updates, creator features, and major corporate developments.
-- [Blog](https://blog.comfy.org): ComfyUI's blog covers generative AI model integrations, open-weight releases, and creative tooling.
 - [Blog](https://blog.collinear.ai): Collinear AI's blog covering original benchmark development and evaluation research for AI agents.
+- [Blog](https://blog.doubleword.ai): Doubleword's engineering blog covers GPU architecture, LLM inference optimization, and serving.
+- [Blog](https://blog.comfy.org): ComfyUI's blog covers generative AI model integrations, open-weight releases, and creative tooling.
+- [Blog](https://blog.redwoodresearch.org): Redwood Research's blog shares original technical research on catastrophic AI risks and mitigation techniques.
 - [Blog](https://blog.pebblous.ai): Pebblous blog publishing empirical investigations into AI model evaluation, data quality, and enterprise AI adoption.
+- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
+- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
 - [blog.owulveryck.info](https://blog.owulveryck.info): Independent engineering blog covering agentic AI development, governance, and platform design patterns.
 - [blog.roboflow.com](https://roboflow.com): Roboflow's company blog covering computer vision model releases, deployment guides, and real-world CV applications.
 - [blog.roboflow.com](https://blog.roboflow.com): Roboflow's blog covers computer vision model training, datasets, and deployment for AI applications.
@@ -50,25 +54,28 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Cohere](https://cohere.com): Cohere's official blog covering its own LLM research breakthroughs, enterprise AI product launches, and model releases.
 - [Commandline](https://commandline.microsoft.com): Microsoft's Command Line blog covering AI agent safety, decision models and agentic infrastructure for builders.
 - [Community](https://community.openai.com): OpenAI's official developer community forum hosts active discussion on API usage, prompting, and building with its models.
+- [Corbt](https://corbt.com): Kyle Corbitt's blog on AI compute economics, GPU pricing, and AGI timeline analysis.
 - [Crusoe](https://crusoe.ai): Crusoe's company blog covering AI cloud infrastructure, GPU compute, and energy-efficient data centers.
 - [Cset](https://cset.georgetown.edu): Georgetown's CSET publishes policy research on AI security, safety, and governance.
 - [Cursor Blog](https://cursor.com): Curated blog source covering AI, software, startups, or technical product development.
 - [Cursor Engineering](https://cursor.sh): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Databricks Engineering](https://databricks.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Datacamp](https://datacamp.com): DataCamp's AI blog covers new model releases, benchmarks, tool comparisons, and practical data science and AI tutorials.
+- [Decodingml Substack](https://decodingml.substack.com): Decoding ML shares original hands-on tutorials on building production LLM systems and MLOps pipelines.
 - [Deepengineering Substack](https://deepengineering.net): Packt's Deep Engineering newsletter features expert interviews on production AI agent governance, harness engineering, and architecture.
 - [Deeplearning](https://deeplearning.ai): Andrew Ng's weekly newsletter summarizing AI research, industry news, and business developments.
 - [Deepseek](https://deepseek.com): DeepSeek's official news page announcing new model releases and version updates.
 - [Deploymentsafety](https://deploymentsafety.openai.com): OpenAI's Deployment Safety Hub publishes system cards and safety evaluations for each model release.
 - [Developer](https://developer.nvidia.com): NVIDIA's developer blog covers GPU computing, CUDA, and AI model training and deployment techniques.
-- [Developers](https://developers.googleblog.com): Google's official developer blog filters posts by AI, covering agent frameworks, model tooling, and platform announcements for engineers.
 - [Developers](https://developers.openai.com): OpenAI's developer portal publishes dated posts on Codex, API tooling, and applied uses of its models for engineers.
+- [Developers](https://developers.googleblog.com): Google's official developer blog filters posts by AI, covering agent frameworks, model tooling, and platform announcements for engineers.
 - [Drli](https://drli.blog): Independent blog analyzing agentic AI systems and their impact on enterprise revenue operations.
 - [dwarkesh.com](https://dwarkesh.com): Dwarkesh Patel's blog and podcast featuring in-depth interviews and essays on frontier AI progress.
 - [Dylan Castillo](https://dylancastillo.co): Independent blog by a data scientist publishing empirical essays on LLMs and applied AI research.
 - [Earendil](https://earendil.com): Earendil's blog on its Pi open-source coding agent harness, covering agent architecture, MCP support and AI tool design.
 - [Engineering at Meta](https://engineering.fb.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [Epoch AI](https://epoch.ai): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Epochai Substack](https://epochai.substack.com): Epoch AI publishes original research and data analysis on AI capabilities, compute trends, and forecasting.
 - [Every](https://every.to): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Evidentinsights](https://evidentinsights.com): Evident Insights publishes research benchmarking AI adoption, ROI, and use cases across banks and insurance firms.
 - [Fast.ai Blog](https://fast.ai): Fast.ai's teaching-focused writing on deep learning practice and accessible research.
@@ -78,6 +85,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Futureagi Substack](https://futureagi.substack.com): Future AGI's engineering newsletter on LLM evaluation pipelines, RAG architecture, and agent runtime guardrails.
 - [Generalistai](https://generalistai.com): Generalist publishes research updates on its embodied foundation models for robotics.
 - [Geoffreylitt](https://geoffreylitt.com): Independent researcher's blog on human-AI collaboration, interface design, and malleable software tools.
+- [Georgianailab Substack](https://georgianailab.substack.com): Georgian's AI Lab shares technical lessons on model evaluation, routing, and production AI systems.
 - [Github](https://github.blog): GitHub's official blog section covering AI and machine learning features like Copilot.
 - [Goldman Sachs Global Institute](https://goldmansachs.com): Goldman Sachs Global Institute research and essays on geopolitics, markets, AI, energy, and long-term economic change.
 - [Goldman Sachs Insights](https://goldmansachs.com): Analysis and perspectives on markets, macroeconomics, technology, artificial intelligence, and global business from Goldman Sachs.
@@ -96,7 +104,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Hiddenlayer](https://hiddenlayer.com): HiddenLayer's research hub publishes original findings on AI model security, adversarial attacks, and agent risk.
 - [Huawei Cloud AI Blog](https://huaweicloud.com): Huawei Cloud international blog with AI tag coverage, cloud AI, ModelArts, infrastructure, and developer updates.
 - [Hugging Face Blog](https://huggingface.co): Official Hugging Face blog for open-source models, tooling, and applied AI tutorials.
+- [Hyperdimensional (Dean W. Ball)](https://hyperdimensional.co): Dean W. Ball's newsletter analyzing frontier AI governance, regulation, and institutional power shifts from advanced AI.
 - [ianbarber.blog](https://ianbarber.blog): Independent blog covering LLM infrastructure economics, training optimization, and benchmarking.
+- [Ibl](https://ibl.ai): Ibl.ai's company blog analyzes agentic AI infrastructure, enterprise LLM deployment, and AI governance for technical buyers.
 - [Indie Hackers Blog](https://indiehackers.com): Curated blog source covering AI, software, startups, or technical product development.
 - [Intel](https://newsroom.intel.com): Intel's corporate newsroom vertical covering the company's own AI chip launches, partnerships, and product announcements.
 - [J.P. Morgan AI Insights](https://jpmorgan.com): J.P. Morgan insights on artificial intelligence, technology markets, startups, investment themes, and business transformation.
@@ -105,6 +115,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Lasstorg](https://lasstorg.substack.com): LASST's Substack covers AI-safety legal advocacy, litigation, and policy analysis on frontier AI governance and risk.
 - [Limitededitionjonathan Substack](https://limitededitionjonathan.substack.com): Independent newsletter with practical commentary on Claude, AI agents, and frontier model releases.
 - [Linum](https://linum.ai): Linum's Field Notes blog shares original research, releases, and technical lessons from building generative video AI models.
+- [Liquid](https://liquid.ai): Liquid AI's official blog announcing new foundation models and research on efficient, on-device AI systems.
 - [lucumr.pocoo.org](https://lucumr.pocoo.org): Armin Ronacher's blog covering LLM coding agents, open source, and AI's impact on development.
 - [Machinelearning](https://machinelearning.apple.com): Apple Machine Learning Research publishes original papers and technical posts on the company's AI research.
 - [Menlovc](https://menlovc.com): Menlo Ventures' Perspective blog publishes AI investment theses and enterprise adoption analysis.
@@ -124,9 +135,12 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Modular](https://modular.com): Modular's engineering blog covering the Mojo language, AI compilers, and cross-silicon inference infrastructure.
 - [Morgan Stanley Insights](https://morganstanley.com): Morgan Stanley market, technology, AI, investment, and thematic research insights from across the firm.
 - [Nebius](https://nebius.com): Nebius's blog covers technical updates on its AI cloud infrastructure, GPU platforms, and research partnerships.
+- [Netflixtechblog](https://netflixtechblog.com): Netflix's engineering blog details the company's machine learning, recommendation, and AI infrastructure systems.
 - [Neuraltrust](https://neuraltrust.ai): NeuralTrust's blog publishes technical research on AI agent security, jailbreaks, and enterprise LLM governance.
-- [Newsroom](https://newsroom.arm.com): Arm's newsroom feed publishes company announcements on AI-native chips, mobile GPUs, and edge computing.
+- [Neurometric Substack](https://blog.neurometric.ai): Neurometric's blog covers small-model AI routing, inference cost optimization, and agentic workflow benchmarks.
+- [Newsletter](https://newsletter.danielpaleka.com): Daniel Paleka's newsletter on AI research and efforts to make the future of AI go well.
 - [Newsroom](https://newsroom.amd.com): AMD's newsroom publishes official announcements on AI chips, data-center hardware, and partnerships.
+- [Newsroom](https://newsroom.arm.com): Arm's newsroom feed publishes company announcements on AI-native chips, mobile GPUs, and edge computing.
 - [normaltech.ai](https://normaltech.ai): AI as Normal Technology publishes research-driven essays on AI's societal and economic impact.
 - [NVIDIA AI Blog](https://blogs.nvidia.com): Official NVIDIA feed for AI platform news, launches, and ecosystem updates.
 - [NVIDIA Newsroom](https://nvidianews.nvidia.com): NVIDIA's official newsroom feed covering generative AI product launches, partnerships, and platforms.
@@ -153,9 +167,10 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Quesma](https://quesma.com): Quesma's engineering blog benchmarks coding-agent token costs and evaluates LLM performance on real developer tasks.
 - [Qwen Blog](https://qwen.ai): Official Qwen model and research blog. Mostly English with Chinese-language availability for some posts.
 - [Redwood Research](https://blog.redwoodresearch.org): Redwood Research's blog publishes AI alignment and safety research from the nonprofit lab.
+- [Redwoodresearch Substack](https://blog.redwoodresearch.org): Redwood Research publishes original AI safety and alignment research, including interpretability and control work.
 - [Reflection](https://reflection.ai): Reflection AI's official blog covering its frontier open-weight language models and enterprise AI research releases.
-- [Research](https://research.google): Google Research's official blog featuring original AI research posts spanning language models, health, and climate science.
 - [Research](https://research.meta.ai): Meta's official AI research hub announcing new models and research from its FAIR and GenAI teams.
+- [Research](https://research.google): Google Research's official blog featuring original AI research posts spanning language models, health, and climate science.
 - [research.google](https://research.google): Google Research's official blog covering the company's AI and machine learning research publications.
 - [research.ibm.com](https://research.ibm.com): IBM Research's blog publishing original technical explainers on generative AI, foundation models, and adjacent computing research.
 - [Resultsense](https://resultsense.com): Resultsense publishes UK-focused strategic analysis on AI policy, governance, and enterprise adoption.
@@ -168,10 +183,13 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Simedw](https://simedw.com): Simon Edwardsson's blog covers hands-on machine learning projects and AI agent engineering.
 - [Stanford AI Lab](https://ai.stanford.edu): Stanford AI Lab updates and research visibility for academic work.
 - [Stanford HAI](https://hai.stanford.edu): Stanford Human-Centered AI updates spanning research, policy, and institute activity.
+- [Stateai Substack](https://stateai.substack.com): State of AI curates and analyzes cutting-edge AI and machine learning research papers each issue.
 - [Supabase Blog](https://supabase.com): Curated blog source covering AI, software, startups, or technical product development.
+- [Superhumanai Substack](https://superhuman.ai): Superhuman AI is a daily newsletter covering AI tools, news, and tutorials for a broad professional audience.
 - [Tencent Cloud ADP Blog](https://adp.tencentcloud.com): Tencent Cloud Agent Development Platform blog covering production AI agents, RAG, workflows, observability, and enterprise agent infrastructure.
 - [The Diligence Stack](https://thediligencestack.com): Creative Strategies publishes analyst-grade technology intelligence from silicon architecture to software strategy and business models.
 - [The Neuron AI](https://theneuron.ai): Fast-moving AI newsletter focused on product launches, company moves, and practical trends.
+- [Therundownai Substack](https://rss.beehiiv.com): The Rundown AI publishes a daily digest of AI news, tools, and research for business and tech readers.
 - [Thinking Machines Lab](https://thinkingmachines.ai): Thinking Machines Lab's blog publishes original AI research and updates from Mira Murati's frontier lab.
 - [Tobi Knaup](https://tobi.knaup.me): Personal blog by entrepreneur Tobi Knaup covering AI infrastructure, open-weight models, and startups.
 - [tomtunguz.com](https://tomtunguz.com): Tom Tunguz's VC blog analyzing AI and SaaS startup trends, funding, and enterprise software strategy.
@@ -181,6 +199,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Trelis Substack](https://trelis.substack.com): Trelis Research by Ronan publishes practical AI tutorials on voice and audio models: speech recognition, transcription, and voice agents.
 - [Trilogyai Substack](https://trilogyai.substack.com): Trilogy's AI Center of Excellence newsletter analyzing enterprise agent deployments, model pricing, and AI security.
 - [Turbopuffer](https://turbopuffer.com): Turbopuffer's engineering blog on its serverless vector and full-text search database built for AI applications on object storage.
+- [Turingpost Substack](https://turingpost.substack.com): Turing Post covers AI research, model releases, and industry trends with in-depth technical analysis.
 - [Uber Engineering](https://uber.com): Engineering blog covering infrastructure, product systems, and applied AI work.
 - [UBS Global Research](https://ubs.com): UBS Investment Bank research insights and data-driven views on markets, sectors, AI, and global investment themes.
 - [Unsloth](https://unsloth.ai): Unsloth's blog publishes technical guides and benchmarks on efficient LLM fine-tuning.
@@ -195,36 +214,48 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Xhinker](https://xhinker.medium.com): Andrew Zhu's Medium blog documents hands-on experiments running and evaluating open-source LLMs.
 - [Xiaomi Robotics](https://robotics.xiaomi.com): Xiaomi Robotics publishes research updates on its embodied foundation models and vision-language-action systems.
 - [Z](https://autoclaw.z.ai): Z.ai's product blog covering GLM model releases, AutoClaw AI agent features, and Zhipu AI's agentic AI research updates.
+- [晚点聊 LateTalk](https://podcast.latepost.com): LatePost's 晚点聊 podcast featuring in-depth interviews on China's AI industry, model competition, and embodied robotics.
 - [美团技术团队](https://tech.meituan.com): 美团官方技术博客历史文章页，覆盖大模型、算法、多模态、论文解读、开源和工程实践。
 
-## Individual Blogs (138)
+## Individual Blogs (175)
 
 - [Aarontay Substack](https://aarontay.substack.com): Aaron Tay's newsletter examines how AI and LLMs are reshaping academic research tools and library search.
 - [Addyo Substack](https://addyo.substack.com): Addy Osmani's newsletter on agentic software engineering, AI coding tools, and human oversight in automated pipelines.
 - [Agentblueprint Substack](https://agentblueprint.substack.com): Michel Tricot's Agent Blueprint covers production AI agent architecture: state machines, orchestration, rate limiting, and approval gates.
+- [Agentengg Substack](https://agentengg.substack.com): Nishant Sinha's Engineering Agents covers building reliable, scalable, autonomous AI agent systems.
 - [Agenticloopsai Substack](https://agenticloopsai.substack.com): Individual newsletter reverse-engineering coding agent architectures like Claude Code, Copilot, and OpenCode internals.
 - [Agentpatterns Substack](https://agentpatterns.substack.com): Individual newsletter developing a structured framework of design patterns for building AI agent architectures.
+- [Aiagentssimplified Substack](https://aiagentssimplified.substack.com): AI Agents Simplified teaches AI agent engineering fundamentals: context windows, RAG, embeddings, and LangGraph.
 - [Aiengineeringinsider Substack](https://aiengineeringinsider.substack.com): AI Engineering Insider covers LLM inference, model compression, and AI engineering interview preparation.
 - [Aievaluation Substack](https://aievaluation.substack.com): Monthly digest tracking AI evaluation methodology, benchmark design, and model assessment research and policy.
+- [Aieworks Substack](https://aieworks.substack.com): Hands On AI Engineering teaches building AI evaluation, scoring, and reliability systems through coding lessons.
 - [Aiexpjourney Substack](https://aiexpjourney.substack.com): AI Exploration Journey, by researcher Florian June, publishes deep technical writeups on RAG and agentic search.
+- [Aifordevelopers Substack](https://aifordevelopers.substack.com): Dariush Abbasi covers AI coding tools, agents, and developer workflows including Claude Code guides.
 - [Aiguide Substack](https://aiguide.substack.com): AI: A Guide for Thinking Humans, by cognitive scientist Melanie Mitchell, critically analyzes AI research claims.
 - [Aiiq Substack](https://aiiq.substack.com): Navin Kabra's AI IQ shares practical tips on using ChatGPT and other AI tools, alongside analysis of AI's societal and research impact.
+- [Aipmguru Substack](https://aipmguru.substack.com): Shaili Guru's AI Product Management Guru newsletter gives product managers frameworks for building AI features.
 - [Aipractitioner Substack](https://aipractitioner.substack.com): Lina Faik's newsletter with practical tutorials on deploying AI agents using Google's Agent Development Kit.
+- [Aisafetyfrontier Substack](https://aisafetyfrontier.substack.com): AI Safety Frontier by Johannes Gasteiger reviews and summarizes recent AI alignment and safety research papers.
 - [Aiscientist Substack](https://aiscientist.substack.com): Mayank Kejriwal's newsletter offering critical analysis of recent AI and machine learning research papers and preprints.
 - [Aishwaryasrinivasan Substack](https://aishwaryasrinivasan.substack.com): Aishwarya Srinivasan's newsletter with practical guides on AI agent tooling, security, and productivity workflows.
 - [Aisnakeoil Substack](https://normaltech.ai): Arvind Narayanan and Sayash Kapoor's newsletter analyzing AI's real-world capabilities, limitations, and societal impact.
+- [Aisupremacy Substack](https://ai-supremacy.com): AI Supremacy by Michael Spencer analyzes AI industry trends, startups, and the economics of the AI boom.
 - [Aisysdesign Substack](https://aisysdesign.substack.com): Individual engineering newsletter with hands-on build-alongs covering AI system design, RAG, and context engineering.
 - [Aiweekender Substack](https://aiweekender.substack.com): Individual newsletter with hands-on tutorials for data scientists building AI agents, RAG systems, and coding tools.
+- [Aiweekly Substack](https://aiweekly.substack.com): True Positive Weekly by Andriy Burkov curates and analyzes the most important AI and machine learning news.
 - [Aiwithmike Substack](https://aiwithmike.substack.com): Mike Erlihson's daily paper-review newsletter covering deep learning research, AI agent benchmarks, and novel architectures.
 - [Akmaier Substack](https://akmaier.substack.com): Andreas Maier curates and analyzes AI research papers in signal processing and medical imaging.
 - [Aleksagordic](https://aleksagordic.com): Aleksa Gordic's blog delivers deep technical explainers on GPU/TPU systems and LLM inference internals.
 - [Alphasignalai Substack](https://alphasignalai.substack.com): Daily technical newsletter for AI developers featuring model benchmarks, engineering deep dives, and frontier LLM analysis.
 - [Andrej Karpathy](https://karpathy.bearblog.dev): Andrej Karpathy's writing on neural networks, LLMs, education, and AI intuition.
+- [Animajumdar Substack](https://animajumdar.substack.com): Anirudha Majumdar's Substack covers video generation models, robotics, and ML research with original analysis.
 - [Anthonymaio](https://anthonymaio.substack.com): Anthony Maio writes on AI evaluation frameworks, model calibration, and engineering practices drawn from his work in AI safety and product.
+- [Argmin Substack](https://argmin.net): argmin by Ben Recht offers critical, original essays on machine learning research, optimization, and AI hype.
 - [Arjunbansal Substack](https://arjunbansal.substack.com): Arjun Bansal evaluates how LLMs perform on real clinical and research workflows, benchmarking models for production-grade applications.
 - [Artificial Corner (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
 - [Artificialintelligenceact](https://artificialintelligenceact.substack.com): Risto Uuk's newsletter tracks EU AI Act enforcement, transparency rules, and regulatory developments.
 - [Arxiviq Substack](https://arxiviq.substack.com): Newsletter curating and deep-diving hand-picked machine learning research papers with daily technical summaries.
+- [Ashishgy77 Substack](https://ashishgy77.substack.com): Ashish's Substack delivers deep technical dives into LLM quantization methods like GPTQ and AWQ.
 - [Baremetalai Substack](https://baremetalai.substack.com): Francesco Baldassarri documents hands-on AI engineering for running and quantizing large language models on local, consumer-grade hardware.
 - [Bdtechtalks Substack](https://bdtechtalks.substack.com): TechTalks by Ben Dickson covers AI security, agent architecture, and interpretability in depth.
 - [Becoming Human: AI Magazine (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
@@ -237,6 +268,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [ByteByteGo](https://blog.bytebytego.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
 - [Cameronrwolfe Substack](https://cameronrwolfe.substack.com): Cameron R. Wolfe's newsletter offering pedagogical deep dives into deep learning research, RL, and language model training.
 - [Chamath Palihapitiya](https://chamath.substack.com): Chamath Palihapitiya shares reading notes and analysis on disruptive technology, markets, startups, and geopolitics.
+- [Chinai Substack](https://chinai.substack.com): ChinAI by Jeffrey Ding translates and analyzes Chinese-language writing on AI policy, industry, and research.
 - [Chip Huyen](https://huyenchip.com): Chip Huyen's practical writing on MLOps, agents, inference, and AI product design.
 - [Chris Olah](https://colah.github.io): Chris Olah's classic long-form essays on interpretability, neural networks, and research taste.
 - [Cobusgreyling Substack](https://cobusgreyling.substack.com): Individual analyst newsletter covering LLMs, conversational AI, NLP, and enterprise AI agent adoption trends.
@@ -255,6 +287,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [elonlit.com](https://elonlit.com): Elon Litman's technical blog offering original theory-focused essays on deep learning, transformers, and machine learning research.
 - [Erogol Substack](https://erogol.substack.com): Eren Golge's newsletter on machine learning research, open-source models, and hands-on AI experimentation.
 - [Eugene Yan](https://eugeneyan.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Exponentialview Substack](https://exponentialview.co): Exponential View by Azeem Azhar analyzes AI's economic, technological, and societal impact in original essays.
 - [Fiodar Substack](https://fiodar.substack.com): Fiodar Sazanavets covers responsible, production-grade AI engineering practices for building software with coding agents like Claude and Codex.
 - [Frontierai Substack](https://frontierai.substack.com): The AI Frontier examines AI business strategy, model economics, and enterprise adoption trends.
 - [Garymarcus Substack](https://garymarcus.substack.com): Gary Marcus's newsletter offering critical commentary on AI industry claims, safety, competition, and policy.
@@ -263,17 +296,23 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Hamel Husain](https://hamel.dev): Hamel Husain's practical notes on LLM apps, evals, and applied AI workflows.
 - [Harryfloyd Substack](https://harryfloyd.substack.com): Individual newsletter applying cross-disciplinary systems thinking to AI failure modes, benchmarks, and deployment risk.
 - [Highlearningrate Substack](https://highlearningrate.substack.com): High Learning Rate is an AI engineer's personal digest of AI agents, models, and ML engineering news.
+- [Howtollms Substack](https://howtollms.substack.com): Hands On LLMs and AI Agents walks through building RAG pipelines, benchmarking, and LLM training with code.
 - [Hugobowne Substack](https://hugobowne.substack.com): Hugo Bowne-Anderson's newsletter and podcast on building production AI agents, model evaluation, and applied AI engineering.
+- [Humanxai Substack](https://humanxai.substack.com): Miguel A Lopez Gil writes personal essays on AI agents, human-AI collaboration, and the future of work.
+- [Hungleai Substack](https://hungleai.substack.com): Neurocoder Tales by Hung Le reviews ML/AI research on agent memory and multi-agent systems.
 - [Iaee Substack](https://iaee.substack.com): Individual AI newsletter delivering illustrated, in-depth explanations of LLM architectures, agent design, and AI standards.
 - [Importai Substack](https://importai.substack.com): Jack Clark's Import AI newsletter covers cutting-edge AI research, policy, safety, and capability developments on a weekly cadence.
 - [Insufferable](https://insufferable.dev): Insufferable.dev offers witty commentary on AI industry trends, coding tool competition, and what advancing AI means for society.
 - [Interconnects](https://interconnects.ai): Nathan Lambert's publication on frontier AI, labs, and model ecosystems.
+- [Interconnects Substack](https://interconnects.ai): Interconnects by Nathan Lambert covers AI research, RLHF, and the open-source model landscape in depth.
 - [Interestingengineering Substack](https://interestingengineering.substack.com): Newsletter analyzing AI infrastructure financing, GPU economics, and hyperscaler capex risk.
+- [Jamwithai Substack](https://jamwithai.substack.com): Jam with AI by Shirin Khosravi Jam explains GPU architecture, LLM training, and AI infrastructure visually.
 - [Jason Liu](https://jxnl.co): Jason Liu's writing on structured generation, LLM tooling, and production patterns.
 - [Jay Alammar](https://jalammar.github.io): Visual, beginner-friendly explainers on transformers, embeddings, and language models.
 - [Joseparreogarcia Substack](https://joseparreogarcia.substack.com): Individual data science newsletter covering transformer architecture, analytics leadership, and data visualization techniques.
 - [Kaitchup Substack](https://kaitchup.substack.com): The Kaitchup is Benjamin Marie's newsletter covering LLM fine-tuning, quantization, and inference techniques.
 - [KDnuggets](https://kdnuggets.com): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Kelvinmu Substack](https://kelvinmu.substack.com): Kelvin Mu's newsletter analyzes enterprise AI adoption economics, infrastructure costs, and agentic workflow strategy.
 - [Kenhuangus Substack](https://kenhuangus.substack.com): Ken Huang's newsletter on agentic AI security, autonomous system vulnerabilities, and AI governance frameworks.
 - [Kiankyars Substack](https://kiankyars.substack.com): Kian Kyars writes original technical analysis on AI infrastructure, scaling laws, and agentic coding tools.
 - [Kmeanskaran Substack](https://kmeanskaran.substack.com): Individual newsletter on MLOps and agent harness deployment, covering production AI infrastructure and cloud architecture.
@@ -283,9 +322,11 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Lenny's Newsletter](https://lennysnewsletter.com): Product and startup writing with increasing emphasis on AI product strategy and adoption.
 - [Lilian Weng](https://lilianweng.github.io): Lilian Weng's research-style essays explaining core AI concepts with unusual clarity.
 - [Llmsresearch Substack](https://llmsresearch.substack.com): LLMs Research covers emerging LLM research patterns, open-source implementations, agent harnesses, and model compression techniques.
+- [Llmwatch Substack](https://llmwatch.com): LLM Watch by Pascal Biese is a weekly newsletter reviewing and curating the most important AI research papers.
 - [Machinelearning Substack](https://machinelearning.substack.com): The Machine Learning Engineer newsletter covers production MLOps, AI infrastructure, and model deployment.
 - [Machinelearningatscale Substack](https://machinelearningatscale.substack.com): Individual newsletter analyzing production machine learning systems, infrastructure failures, and engineering at scale.
 - [Max Woolf](https://minimaxir.com): Max Woolf's technical blog with hands-on LLM experiments, benchmarking, and analysis of AI coding tools.
+- [Metacircuits Substack](https://metacircuits.substack.com): The Circuit by Jonas Braadbaart covers AI-driven business strategy, agentic products, and solopreneurship.
 - [Mindfulmodeler Substack](https://mindfulmodeler.substack.com): Christoph Molnar's Mindful Modeler covers tabular foundation models, ML interpretability, and benchmarking from a statistician's perspective.
 - [Mlforall Substack](https://mlforall.substack.com): Jonathan Nguyen breaks down LLM fundamentals for engineers, covering transformers, evaluation, RAG, fine-tuning, and production system design.
 - [Mlfrontiers Substack](https://mlfrontiers.substack.com): Individual newsletter on financial foundation models, LLM evaluation, and practical machine learning engineering lessons.
@@ -293,13 +334,16 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Mlnotes Substack](https://mlnotes.substack.com): Individual newsletter with technical deep dives on agentic RAG, document AI platforms, and generative AI engineering.
 - [Mlops Substack](https://mlops.substack.com): Bugra Akyildiz's MLOps Newsletter rounds up weekly developments in LLMs, deep learning infrastructure, and inference optimization.
 - [Msukhareva Substack](https://msukhareva.substack.com): AI Realist newsletter critiques AI industry hype with hands-on essays on agentic AI adoption.
+- [Multimodalai Substack](https://read.theaimerge.com): The AI Merge by Alex Razvant covers AI infrastructure, robotics, and engineering practices for production AI.
 - [Nandigamharikrishna Substack](https://nandigamharikrishna.substack.com): Individual newsletter explaining LLM reasoning, reinforcement learning techniques, and practical AI tool setup guides.
 - [Nathanbenaich Substack](https://nathanbenaich.substack.com): Nathan Benaich's newsletter on frontier AI models, geopolitics, enterprise adoption, and the annual State of AI Report.
 - [Natolambert Substack](https://natolambert.substack.com): Nathan Lambert's newsletter on open-source AI research, model distillation, reinforcement learning, and AI policy.
 - [Neuribs Substack](https://neuribs.substack.com): Ribhu Lahiri's neuribs explores AI safety, interpretability, and alignment, including empirical research on language model reasoning biases.
 - [Nextsignalprediction Substack](https://nextsignalprediction.substack.com): Individual newsletter with original reporting on AI labs, frontier model economics, and founder and researcher interviews.
+- [Ninaschick Substack](https://ninaschick.substack.com): Nina Schick's Industrial Intelligence covers AI's geopolitical, economic, and energy implications.
 - [Not Boring](https://notboring.co): Narrative essays on technology and business, including infrastructure and AI themes.
 - [One Useful Thing](https://oneusefulthing.org): Ethan Mollick writes about AI adoption, work, education, creativity, and the practical impact of frontier models.
+- [Oneusefulthing Substack](https://oneusefulthing.org): One Useful Thing by Ethan Mollick shares original research-backed insights on using AI tools effectively.
 - [Patmcguinness Substack](https://patmcguinness.substack.com): AI Changes Everything, by Patrick McGuinness, tracks frontier AI model releases, pricing, and capabilities.
 - [Pawankjha Substack](https://pawankjha.substack.com): Pawan Jha's newsletter on AI and ML systems engineering, covering LLM inference, KV cache design, and distributed training.
 - [Philipp Schmid](https://philschmid.de): Philipp Schmid's hands-on guides for training, fine-tuning, and deploying open models.
@@ -307,22 +351,29 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Pragmaticengineer Substack](https://pragmaticengineer.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
 - [Primitivesai Substack](https://primitivesai.substack.com): Seth Hobson's AI Primitives examines AI agent infrastructure: containment, orchestration, and safety failures in production deployments.
 - [Product Growth](https://news.aakashg.com): Aakash Gupta publishes product management, product leadership, growth, and AI product career deep dives.
+- [Productmindset Substack](https://productmindset.substack.com): Product Mindset shares original frameworks and templates for product managers building agentic AI systems.
+- [Rdel Substack](https://rdel.substack.com): Lizzie Matusov's Research-Driven Engineering Leadership newsletter examines how AI reshapes engineering teams.
 - [Rickhigh Substack](https://rickhigh.substack.com): Rick Hightower's newsletter on production agent engineering, covering CrewAI, AWS AgentCore, and agent security boundaries.
 - [Sander Dieleman](https://sander.ai): Sander Dieleman's deep technical essays on generative models, audio, and machine learning research.
 - [Sarthakai Substack](https://sarthakai.substack.com): Sarthak Rastogi's AI Agent Engineering covers production AI agent development: evaluation, observability, tool design, and safety.
 - [Sbordt Substack](https://sbordt.substack.com): Sebastian Bordt's newsletter offers rigorous technical deep-dives on deep learning training theory.
+- [Seantrott Substack](https://seantrott.substack.com): The Counterfactual by Sean Trott covers cognitive science, linguistics, and language models in original essays.
 - [Sebastian Raschka](https://magazine.sebastianraschka.com): Sebastian Raschka's technical writing on LLMs, machine learning, and model-building practice.
 - [Sebastian Ruder](https://ruder.io): Independent or organizational blog covering AI, machine learning, software, or builder workflows.
+- [Sebastianraschka Substack](https://magazine.sebastianraschka.com): Sebastian Raschka writes original deep-dive explainers on LLM research, training techniques, and architectures.
 - [SemiAnalysis](https://newsletter.semianalysis.com): Dylan Patel's SemiAnalysis covers semiconductors, compute infrastructure, and frontier AI economics.
 - [Semianalysis Substack](https://semianalysis.substack.com): Newsletter-style source covering AI, software, startups, or industry analysis.
 - [Sethkarten Substack](https://sethkarten.substack.com): Seth Karten's newsletter on self-improving AI agents, game-theoretic reasoning, and multi-agent reinforcement learning.
 - [Signalsandsystems Substack](https://signalsandsystems.substack.com): Jon Walkenhorst's newsletter on AI governance, agent workforce management, and organizational impacts of automation.
 - [Simon Willison](https://simonwillison.net): Independent writing on LLM tools, prompting, evaluation, and practical AI engineering.
 - [Simonw Substack](https://simonw.substack.com): Simon Willison's newsletter covering LLMs, coding agents, open source AI tools, and practical software engineering.
+- [Simonwillison Substack](https://simonwillison.net): Simon Willison writes original, hands-on analysis of LLM tools, coding agents, and AI developer practices.
 - [The AI Corner](https://the-ai-corner.com): Ruben Dominguez writes practical AI workflows, prompts, and tools for founders and operators.
 - [The Gradient](https://thegradient.pub): Editorial publication featuring accessible essays from researchers and practitioners in ML.
 - [The Product Compass](https://productcompass.pm): Pawel Huryn publishes AI and product management playbooks, resources, and product sense guidance.
 - [Theagentarchitect Substack](https://theagentarchitect.substack.com): Chris Tyson's The AI Agent Architect covers enterprise AI deployment: identity, permissions, memory, audit, and cost architecture.
+- [Theagentstack Substack](https://theagentstack.substack.com): Vinoth Govindarajan's technical deep dive into AI agent architecture, orchestration, and multi-agent internals.
+- [Theaiedge Substack](https://theaiedge.substack.com): The AI Edge by Damien Benveniste teaches original technical deep dives on LLMs, agents, and ML engineering.
 - [Theaiengineer Substack](https://theaiengineer.substack.com): Individual newsletter on practical AI engineering decisions, covering RAG, fine-tuning, and inference infrastructure.
 - [Thealgorithmicbridge Substack](https://thealgorithmicbridge.com): Alberto Romero's The Algorithmic Bridge analyzes the AI industry, covering corporate competition, policy, and the societal impact of AI.
 - [Theneuralmaze Substack](https://theneuralmaze.substack.com): Individual engineering newsletter on production LLM systems, document intelligence pipelines, and AI infrastructure.
@@ -332,14 +383,21 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Theslowai Substack](https://theslowai.substack.com): Dr Sam Illingworth's Slow AI examines AI ethics and policy in education, workplaces, and data center development through original research.
 - [Thezvi Substack](https://thezvi.substack.com): Zvi Mowshowitz's newsletter offering detailed critical analysis of frontier AI model releases and safety evaluations.
 - [Towards AI (Medium)](https://medium.com): Medium publication collecting practical AI, ML, and data science articles.
+- [Understandingai Substack](https://understandingai.org): Understanding AI by Timothy B. Lee explains AI research, policy, and industry developments for general readers.
+- [Victordibia Substack](https://newsletter.victordibia.com): Victor Dibia writes original technical content on building AI agents, multi-agent systems, and applied research.
 - [Vik's Newsletter](https://viksnewsletter.com): Vikram Sekar analyzes AI infrastructure across photonics, memory, interconnects, power, and packaging.
+- [Vinitshahdeo Substack](https://vinitshahdeo.substack.com): Vinit Shahdeo writes for backend engineers on AI agents, distributed systems, and production AI patterns.
 - [Vizuara Substack](https://vizuara.substack.com): Individual AI newsletter with in-depth technical explainers on LLM inference, deep learning theory, and implementation.
 - [Vladbogo Substack](https://vladbogo.substack.com): Vlad Bogolin's AI Paper of the Day newsletter summarizes a notable computer vision, NLP, or multimodal AI research paper daily.
+- [Wheremachinesthink Substack](https://wheremachinesthink.substack.com): Anil Ananthaswamy explores the mathematical and theoretical foundations of artificial and natural intelligence.
+- [Yina Substack](https://yina.substack.com): Yina Moe-Lange's The Big Y newsletter analyzes AI industry trends, enterprise adoption, and societal impact.
 - [Yoshuabengio](https://yoshuabengio.org): Yoshua Bengio's personal blog covers AI safety, governance, and risks from frontier AI systems and autonomous agents.
+- [Youssefh Substack](https://todatabeyond.substack.com): To Data & Beyond by Youssef Hosni covers AI, generative AI, and data science with hands-on code walkthroughs.
 - [Zhouyaoai Substack](https://zhouyaoai.substack.com): Zhouyao Xie's AI engineering notes cover LLM architectures, attention mechanisms, agent design, and lessons from building production ML systems.
 
-## AI News & Analysis Sites (288)
+## AI News & Analysis Sites (331)
 
+- [100toolkit](https://100toolkit.com): 100 Toolkit is an independent blog analyzing language model fine-tuning, interpretability, and stylistic quirks in AI.
 - [36氪 AI](https://36kr.com): 36Kr AI section covering Chinese AI startups, funding, products, and business news. High-recall source; downstream filters handle precision.
 - [404media](https://404media.co): Independent tech journalism outlet's AI tag covering AI ethics, labor, and industry accountability stories.
 - [9to5google](https://9to5google.com): 9to5Google's dedicated feed covering Google's AI products, Gemini updates, and related news.
@@ -348,17 +406,22 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Adweek](https://adweek.com): Marketing and advertising trade publication's dedicated AI section covering AI tools, platforms, and their impact on brands.
 - [AI Business](https://aibusiness.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [AI Valley](https://theaivalley.com): News source focused on artificial intelligence, model launches, and industry developments.
+- [AI Weekly](https://aiweekly.co): AI Weekly is a newsletter curating and analyzing AI research, business, safety, and policy developments since 2015.
 - [Ai-supremacy](https://ai-supremacy.com): AI Supremacy, by Michael Spencer, delivers analysis of AI industry trends, model releases, and geopolitics.
 - [Aibreakfast](https://aibreakfast.beehiiv.com): AI Breakfast is a newsletter summarizing daily artificial intelligence news, tools, and research.
 - [Aichatdaily](https://aichatdaily.com): AI Chat Daily publishes original daily reporting on frontier AI safety, corporate strategy, and regulation.
 - [Aimagazine](https://aimagazine.com): AI Magazine, a BizClik brand, covers AI strategy, industry news, and executive interviews.
 - [Aiweekly](https://aiweekly.co): Independent AI newsletter publishing original reporting on model releases, policy, and industry trends.
 - [Alphasignal](https://alphasignal.ai): AlphaSignal is a curated AI newsletter and outlet summarizing top model, research, and tool news.
+- [Americanbanker](https://americanbanker.com): American Banker covers how banks, credit unions, and payments firms deploy and govern AI agents and generative AI tools.
+- [Analyticsindiamag](https://analyticsindiamag.com): Analytics India Magazine covers AI and data-science news, enterprise adoption, startups, and policy across India's tech ecosystem.
 - [Androidauthority](https://androidauthority.com): Android Authority's AI vertical covering Google, Android, and mobile AI feature news.
+- [Appleinsider](https://appleinsider.com): AppleInsider's AI topic hub covering Apple Intelligence, Siri AI development, and broader Apple artificial intelligence news.
 - [Ars Technica](https://arstechnica.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Arstechnica](https://arstechnica.com): Ars Technica's dedicated AI section featuring original reporting and analysis on AI models, policy, and industry developments.
 - [Artificial Analysis](https://artificialanalysis.ai): Artificial Analysis provides independent benchmarking and comparison of AI model performance, price, and speed.
 - [Artificialintelligence-news](https://artificialintelligence-news.com): AI News is an editorial outlet publishing daily news on artificial intelligence tools, research, and enterprise adoption.
+- [arXiv](https://rss.arxiv.org): arXiv is an open-access preprint repository whose cs.AI category RSS feed surfaces new AI and machine learning papers daily.
 - [Arxiv](https://rss.arxiv.org): Official arXiv RSS feed for the cs.AI category, listing newly submitted artificial-intelligence research preprints daily.
 - [Arxiv](https://export.arxiv.org): arXiv's cs.AI RSS feed publishes newly submitted artificial-intelligence research preprints in real time.
 - [Asia](https://asia.nikkei.com): Nikkei Asia's technology section covering AI developments across Asian markets and companies.
@@ -370,14 +433,17 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Beckershospitalreview](https://beckershospitalreview.com): Becker's Hospital Review's AI section covers healthcare-IT adoption of artificial intelligence across hospitals and health systems.
 - [BEN Evans](https://ben-evans.com): Benedict Evans' newsletter offers big-picture analysis on AI, tech platforms, and strategy.
 - [Benchlm](https://benchlm.ai): BenchLM benchmarks and compares frontier AI models and agents with pricing and capability analysis.
+- [Benzinga](https://benzinga.com): Benzinga's AI section covers artificial intelligence company news, funding, and stock market impact for investors.
 - [Beri](https://beri.net): The D\[AI\]LY BRIEF by Rajesh Beri gives enterprise leaders daily AI vendor and procurement analysis.
 - [BestBlogs](https://bestblogs.dev): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Betakit](https://betakit.com): BetaKit is a Canadian tech and startup news outlet with a dedicated AI news feed.
 - [Bleepingcomputer](https://bleepingcomputer.com): Bleeping Computer's AI tag covering security incidents and vulnerabilities involving AI systems.
 - [Blog](https://blog.sshh.io): Shrivu Shankar's blog shares hands-on experiments and analysis of frontier AI models and agents.
 - [Blog](https://blog.dailydoseofds.com): Daily Dose of Data Science publishes practical tutorials and explainers on machine learning and AI engineering.
+- [Bloomberg](https://bloomberg.com): Bloomberg's AI section covers artificial intelligence business, markets, and policy news from a leading financial news outlet.
 - [Bloomberg Technology](https://bloomberg.com): Business and markets publication with a dedicated technology desk and AI coverage.
 - [Boydkane](https://boydkane.com): Boyd Kane's blog covers AI safety research, LLM failure modes, and alignment fellowship work.
+- [Bricks-bytes](https://bricks-bytes.com): Bricks & Bytes covers AI and robotics applications in construction technology, including funding, reports, and vendor case studies.
 - [Brookings](https://brookings.edu): Brookings Institution's AI topic hub featuring policy research and analysis on artificial intelligence.
 - [Business Insider Tech](https://businessinsider.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Businesstoday](https://businesstoday.in): Business Today's AI section covers frontier model news, AI policy, and enterprise AI developments with Indian business context.
@@ -395,6 +461,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Computerworld](https://computerworld.com): Computerworld's AI section covers enterprise adoption, generative AI, and machine learning industry news.
 - [Constellationr](https://constellationr.com): Constellation Research, an enterprise tech analyst firm, publishes news and analysis with agentic AI as a central recurring theme.
 - [Convergedigest](https://convergedigest.com): Converge Digest reports daily on AI infrastructure, optical networking, and data center technology.
+- [Crypto Briefing](https://cryptobriefing.com): Crypto Briefing is a crypto/blockchain news outlet with a dedicated, frequently-updated section covering general AI industry developments.
+- [Cryptobriefing](https://cryptobriefing.com): Crypto Briefing is a crypto/blockchain news outlet with a dedicated, frequently-updated section covering general AI industry developments.
 - [Csis](https://csis.org): CSIS think tank hub for AI policy research, reports, and analysis on technology and security.
 - [Csoonline](https://csoonline.com): CSO Online's AI feed covers AI-driven security threats, model safety, and CISO governance.
 - [Cybernews](https://cybernews.com): Cybernews' AI section covers AI's intersection with privacy, surveillance, and internet culture.
@@ -404,7 +472,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Darioamodei](https://darioamodei.com): Personal site of Anthropic CEO Dario Amodei featuring original essays and interviews on AI safety, policy, and development.
 - [Datacenterdynamics](https://datacenterdynamics.com): Data center industry publication's AI tag covering AI infrastructure buildout, chips, and power demand.
 - [Datacenterfrontier](https://datacenterfrontier.com): Data Center Frontier's AI/ML vertical covers AI infrastructure buildout, power, cooling, and hyperscale datacenter trends.
+- [Datacenterknowledge](https://datacenterknowledge.com): Data Center Knowledge reports on AI data center infrastructure, power, cooling, and construction trends.
 - [Dataconomy](https://dataconomy.com): Dataconomy covers artificial intelligence, data science, and big data news and industry analysis.
+- [Dataist](https://dataist.ai): Dataist publishes research-driven coverage of AI agents, reasoning, multimodal systems, and AI safety.
 - [Daveshap](https://daveshap.substack.com): Dave Shapiro's newsletter offers independent analysis and commentary on AI agents, AGI, and emerging AI systems.
 - [Developer-tech](https://developer-tech.com): Developer Tech's Data and AI section covers AI models, developer tools, and agentic coding news.
 - [Digital Trends AI](https://digitaltrends.com): News source focused on artificial intelligence, model launches, and industry developments.
@@ -412,8 +482,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Edtechinnovationhub](https://edtechinnovationhub.com): EdTech Innovation Hub's AI category tracks AI funding, hires, and product news in education technology.
 - [EE Times](https://eetimes.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Embracethered](https://embracethered.com): Embrace The Red is a security research blog documenting prompt injection, jailbreaks, and other LLM attack techniques.
-- [Emergingai](https://emergingai.substack.com): Newsletter covering practical AI agent development, inference engineering, and emerging technical roles.
 - [Emergingai](https://opinionai.substack.com): Opinion AI is a practical daily newsletter on new AI tools, workflows, and monetization tactics for builders.
+- [Emergingai](https://emergingai.substack.com): Newsletter covering practical AI agent development, inference engineering, and emerging technical roles.
+- [En](https://en.sedaily.com): Seoul Economic Daily, a Korean business newspaper, runs dedicated AI PRISM and AI KEY sections analyzing AI's market impact.
 - [Engadget](https://engadget.com): Engadget's AI section covers consumer artificial intelligence products, apps, and industry developments.
 - [Esecurityplanet](https://esecurityplanet.com): eSecurity Planet's AI feed covers artificial intelligence's role in cybersecurity threats and defenses.
 - [Euronews](https://euronews.com): Euronews' AI tag covering European AI policy, regulation, and industry developments daily.
@@ -422,13 +493,18 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Fastcompany](https://fastcompany.com): Fast Company's AI section covers business impact, products, and culture around artificial intelligence.
 - [fergusfinn.com](https://fergusfinn.com): Fergus Finn writes independent technical deep-dives on LLM inference optimization and GPU performance.
 - [Fierce Healthcare](https://fiercehealthcare.com): Fierce Healthcare's AI vertical covers machine-learning adoption, governance, and clinical deployment in health systems.
+- [Financial-planning](https://financial-planning.com): Financial Planning covers wealth management industry news, including a dedicated section on AI tools for financial advisors.
+- [Financialit](https://financialit.net): Financial IT is a fintech trade publication with an actively updated section covering AI adoption in banking and payments.
 - [Forbes](https://forbes.com): Forbes' AI vertical covering enterprise adoption, startups, and business impact of AI.
+- [Fortune](https://fortune.com): Fortune's AI section covers the business, financial, and policy dimensions of the artificial intelligence industry.
 - [Fortune Technology](https://fortune.com): Business publication covering AI companies, strategy, and enterprise adoption.
+- [FourWeekMBA](https://fourweekmba.com): FourWeekMBA publishes daily and weekly roundups analyzing AI business models, funding, and strategic shifts in the AI industry.
 - [Fox Business Technology](https://foxbusiness.com): Business news source covering AI company announcements and market narratives.
 - [Foxnews](https://foxnews.com): Fox News' AI section covers artificial intelligence business, policy, and consumer technology news.
 - [From Custom Chip to Hyperscale Platform](https://moorinsightsstrategy.com): Moor Insights and Strategy analysts publish original commentary on enterprise AI, agentic platforms, and semiconductor strategy.
 - [Futureoflife](https://futureoflife.org): Future of Life Institute publishes statements, policy analysis, and research on AI safety, governance, and existential risk.
 - [Futurism](https://futurism.com): Futurism's AI category delivers original investigative reporting on AI industry harms and ethics.
+- [Gadgetreview](https://gadgetreview.com): Gadget Review's AI section covers daily news on AI tools, chatbots, and consumer tech implications.
 - [Gaodalie](https://gaodalie.substack.com): Gao Dalie's newsletter offers hands-on tutorials on LLM agents, RAG, and AI developer tools.
 - [Garymarcus](https://garymarcus.substack.com): Gary Marcus's newsletter offers critical analysis and commentary on AI capabilities, hype, and policy.
 - [Geekwire](https://geekwire.com): GeekWire's AI section covers Seattle-area AI company news, research, and startup funding.
@@ -441,6 +517,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Helpnetsecurity](https://helpnetsecurity.com): Help Net Security's AI feed covering enterprise security risks and vulnerabilities tied to AI.
 - [Hpcwire](https://hpcwire.com): HPCwire covers high-performance computing with substantial emphasis on AI infrastructure, inference, and data centers.
 - [HPCwire](https://hpcwire.com): Technology or business news source that regularly covers AI, software, and startup movement.
+- [Huggingnews](https://huggingnews.com): HuggingNews publishes a real-time, day-grouped feed of AI industry news covering model releases, safety, and infrastructure.
 - [Humanoidsdaily](https://humanoidsdaily.com): Editorial outlet tracking the humanoid robotics industry, covering AI-driven robots, makers, and commercialization.
 - [Hyper](https://hyper.ai): HyperAI publishes daily AI research news, papers, benchmarks, and tutorials covering model releases and ML tools.
 - [Iaroslavelistratov](https://iaroslavelistratov.github.io): Iaroslav Elistratov's blog publishes deep technical writeups on GPU kernels, autodiff, and deep-learning systems.
@@ -448,6 +525,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Ibtimes](https://ibtimes.co.uk): International Business Times UK's AI section covers frontier model news, safety concerns, and industry deals.
 - [IEEE Spectrum](https://spectrum.ieee.org): Engineering publication covering AI, robotics, hardware, and industrial technology.
 - [Implicator](https://implicator.ai): Implicator.ai publishes independent daily news and analysis on artificial intelligence developments.
+- [Inc42](https://inc42.com): Inc42 covers India's startup ecosystem including AI company funding, IPOs, and enterprise AI adoption news.
 - [Indie Hackers](https://indiehackers.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [InfoQ](https://infoq.com): Developer-focused news channel from InfoQ covering AI, ML, data engineering, and applied software practice.
 - [InfoQ AI/ML](https://infoq.com): News source focused on artificial intelligence, model launches, and industry developments.
@@ -459,14 +537,17 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Itpro](https://itpro.com): ITPro's AI section covers enterprise artificial intelligence adoption, security, and product news.
 - [Kingy](https://kingy.ai): Kingy AI publishes evidence-based reviews of open-source coding agents and AI policy analysis.
 - [Latent Space](https://latent.space): AI engineer-focused publication covering agents, tooling, inference, and ecosystem shifts.
+- [Legaltechnology](https://legaltechnology.com): Legal IT Insider is a legal technology trade publication with a dedicated, actively-updated Generative AI news category.
 - [Lesswrong](https://lesswrong.com): LessWrong is a community blog central to AI alignment and safety research discourse.
-- [Lighthousenewsletter](https://lighthousenewsletter.com): Rafael Pierre's newsletter covers engineering deep-dives into production AI systems and infrastructure.
 - [Lighthousenewsletter](https://litehousenewsletter.substack.com): Independent newsletter on practical AI engineering: LLM cost optimization, agent tooling, RAG, and AI hardware markets.
+- [Lighthousenewsletter](https://lighthousenewsletter.com): Rafael Pierre's newsletter covers engineering deep-dives into production AI systems and infrastructure.
 - [LLM Rumors](https://llmrumors.com): Newsletter analyzing LLM releases, inference infrastructure trends, and competitive dynamics among AI labs.
 - [Llm-stats](https://llm-stats.com): LLM Stats provides independent rankings and benchmark comparisons of large language models' performance and cost.
 - [Maginative](https://maginative.com): Maginative is an independent media outlet publishing news and analysis on the AI industry.
+- [Marktechpost](https://marktechpost.com): MarkTechPost publishes daily AI and machine learning research news, tutorials, and industry coverage.
 - [MarkTechPost](https://marktechpost.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [martinalderson.com](https://martinalderson.com): Martin Alderson writes independent analysis on AI infrastructure economics, model quantisation, and tooling.
+- [Mashable](https://mashable.com): Mashable's AI vertical covers daily news, reviews, and explainers on AI tools, chatbots, and industry trends.
 - [Mbgsec](https://mbgsec.com): Michael Bargury's security blog covering AI agent supply-chain attacks and prompt-injection threats.
 - [MIT AI News](https://news.mit.edu): News source focused on artificial intelligence, model launches, and industry developments.
 - [MIT Technology Review](https://technologyreview.com): Technology publication known for higher-context reporting on AI and policy.
@@ -481,11 +562,14 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Newsletter](https://newsletter.semianalysis.com): SemiAnalysis is an independent newsletter covering AI chips, data-center economics, and semiconductor supply chains.
 - [Newsweek](https://newsweek.com): Newsweek's dedicated AI vertical covering enterprise adoption, AI policy, geopolitics, and industry analysis.
 - [Nextgov](https://nextgov.com): Nextgov's AI section covers federal government adoption, policy, and regulation of artificial intelligence.
+- [Niemanlab](https://niemanlab.org): Nieman Lab's AI coverage tracks generative AI's impact on newsrooms, copyright disputes, and journalism industry practices.
 - [No Law Protected Them](https://techtimes.com): Tech Times' Artificial Intelligence section publishing daily bylined news on AI models, robotics, chips and policy.
+- [No Opt-Out](https://byteiota.com): ByteIota is a tech publication covering AI, developer tools, infrastructure, and open-source software with original analysis.
 - [Nohacks](https://nohacks.co): Independent blog on AI agent web standards, crawler access, and agentic commerce infrastructure.
 - [Nope](https://blog.nope.net): Nope's blog publishes original analysis on conversational AI safety, crisis-response gaps, and AI regulation.
 - [NYT Technology](https://nytimes.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Officechai](https://officechai.com): OfficeChai's AI feed covers Indian tech startups, funding, and artificial intelligence industry developments.
+- [Opentools](https://opentools.ai): OpenTools curates an AI tools directory and publishes original daily news on AI products, models, and industry developments.
 - [Paddo](https://paddo.dev): Emergent Minds offers critical analysis of AI model releases, safety claims, and industry incentives.
 - [Pandaily](https://pandaily.com): Pandaily is an English-language outlet covering China's technology, AI, and electric vehicle industry news.
 - [Pasqualepillitteri](https://pasqualepillitteri.it): Pasquale Pillitteri's blog publishes weekly guides on AI, cybersecurity, and software engineering practice.
@@ -512,14 +596,16 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [SCMP Artificial Intelligence](https://scmp.com): South China Morning Post topic page covering artificial intelligence news and analysis.
 - [SCMP China Future Tech AI](https://scmp.com): South China Morning Post China Future Tech AI section covering China AI and technology developments.
 - [Scworld](https://scworld.com): SC World covers cybersecurity news with a dedicated feed on AI and machine-learning threats.
-- [Sebastianraschka](https://magazine.sebastianraschka.com): Ahead of AI by Sebastian Raschka covers machine learning and AI research trends with in-depth technical newsletter articles.
 - [Sebastianraschka](https://sebastianraschka.com): Sebastian Raschka writes in-depth, code-driven explainers on LLM architecture and research.
+- [Sebastianraschka](https://magazine.sebastianraschka.com): Ahead of AI by Sebastian Raschka covers machine learning and AI research trends with in-depth technical newsletter articles.
 - [Securityaffairs](https://securityaffairs.com): Security news site's AI category covering AI-enabled cyberattacks, model vulnerabilities, and defenses.
 - [Securityweek](https://securityweek.com): SecurityWeek's AI category covers agentic AI threats, model vulnerabilities, and security policy.
 - [Seeking Alpha](https://seekingalpha.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Semafor](https://semafor.com): Global news startup launched in 2022 by Ben Smith and Justin Smith, with a Technology vertical covering AI, big tech, and semiconductors.
 - [Servethehome](https://servethehome.com): Hardware review site's AI tag covering accelerators, inference chips, and server infrastructure for AI.
+- [Sfstandard](https://sfstandard.com): The San Francisco Standard is a local news outlet whose business desk heavily covers Bay Area AI labs, funding, and policy.
 - [Sherwood](https://sherwood.news): Sherwood News' tech section covers AI industry deals, regulation, and infrastructure spending in a conversational voice.
+- [Siliconangle](https://siliconangle.com): SiliconANGLE's AI category covers enterprise AI, LLMs, funding, and agentic technology news hourly.
 - [SiliconANGLE](https://siliconangle.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [SiliconANGLE AI](https://siliconangle.com): News source focused on artificial intelligence, model launches, and industry developments.
 - [Siliconrepublic](https://siliconrepublic.com): Silicon Republic's AI tag covers AI funding, chips, and enterprise adoption news for Europe.
@@ -527,13 +613,15 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Smithstephen](https://smithstephen.com): Newsletter by Stephen Smith analyzing generative AI tools, ethics, and regulation for lawyers.
 - [Snscratchpad](https://snscratchpad.com): SN Scratchpad analyzes enterprise AI risk, security, and economic implications of deploying agentic systems at scale.
 - [Spyglass](https://spyglass.org): M.G. Siegler's Spyglass offers tech-industry commentary and analysis, with frequent recent focus on AI model releases and strategy.
+- [Startupfortune](https://startupfortune.com): Startup Fortune reports AI industry news, including funding, acquisitions, and agentic AI developments, via its dedicated AI feed.
 - [Superhuman AI](https://superhuman.ai): News source focused on artificial intelligence, model launches, and industry developments.
 - [Superpowerdaily](https://superpowerdaily.com): Superpower Daily is a free daily AI newsletter curating model, product, startup, policy, and tool news.
 - [Sylvainkalache](https://sylvainkalache.com): Sylvain Kalache's blog examines how AI is changing incident response, code review, and day-to-day engineering.
-- [Tech](https://tech.yahoo.com): Yahoo Tech's AI section covers original reporting and analysis on artificial intelligence industry news.
 - [Tech](https://tech.ifeng.com): Phoenix Tech's AI news channel covering Chinese and global LLM, robotics, and AI safety developments.
+- [Tech](https://tech.yahoo.com): Yahoo Tech's AI section covers original reporting and analysis on artificial intelligence industry news.
 - [Tech-insider](https://tech-insider.org): Tech Insider is a Stockholm-founded outlet covering AI, cybersecurity, and cloud infrastructure with original reporting.
 - [Techbuzz](https://techbuzz.ai): Techbuzz.ai is an AI-native news outlet covering AI product launches, funding, regulation, and enterprise risk daily.
+- [Techcrunch](https://techcrunch.com): TechCrunch's AI category covers daily news on AI companies, models, funding, and product launches.
 - [TechCrunch](https://techcrunch.com): General tech newsroom with substantial coverage of AI startups, funding, and launches.
 - [Techfundingnews](https://techfundingnews.com): Startup funding outlet's AI category tracking venture rounds and infrastructure investment in AI companies.
 - [Techgenyz](https://techgenyz.com): Techgenyz's AI section covers artificial intelligence product launches, enterprise deals, and industry news.
@@ -553,6 +641,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Techtarget](https://techtarget.com): TechTarget's enterprise AI microsite covers news, expert advice, and analysis for IT professionals.
 - [Techwireasia](https://techwireasia.com): Tech Wire Asia's AI category covers artificial-intelligence adoption, policy, and vendor news across Asia-Pacific.
 - [Techzine](https://techzine.eu): Techzine Global's AI tag page offers original editorial analysis on enterprise AI, agents, chips, and infrastructure news.
+- [Tekedia](https://tekedia.com): Tekedia is a business and technology news outlet that regularly covers AI industry developments like Anthropic and OpenAI.
 - [Terriblesoftware](https://terriblesoftware.org): Terrible Software is an engineering-leadership blog examining how AI coding tools reshape developer trust and team culture.
 - [Testingcatalog](https://testingcatalog.com): TestingCatalog reports breaking AI news on model releases, agent features, leaks, and rumors from major AI labs.
 - [TestingCatalog](https://testingcatalog.com): Independent AI news outlet covering announcements, leaks, and product developments across ChatGPT, Claude, Gemini, Copilot, and AI agents.
@@ -565,8 +654,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [The New Stack](https://thenewstack.io): Developer-focused publication covering cloud, data, platforms, and AI engineering.
 - [The Next Web](https://thenextweb.com): The Next Web's dedicated AI feed covering industry news, product launches, and analysis.
 - [The Register](https://theregister.com): Skeptical enterprise-tech publication with strong AI infrastructure and ops coverage.
-- [The Rundown AI](https://rss.beehiiv.com): The Rundown AI delivers a daily 5-minute briefing on AI news, tools, and practical use cases.
 - [The Rundown AI](https://therundown.ai): News source focused on artificial intelligence, model launches, and industry developments.
+- [The Rundown AI](https://rss.beehiiv.com): The Rundown AI delivers a daily 5-minute briefing on AI news, tools, and practical use cases.
 - [The Rundown AI](https://therundownai.beehiiv.com): The Rundown AI is a daily newsletter summarizing AI news and practical applications for a broad professional audience.
 - [The Tech Buzz](https://techbuzz.ai): Technology or business news source that regularly covers AI, software, and startup movement.
 - [The Verge](https://theverge.com): Consumer and platform-focused technology publication with broad AI coverage.
@@ -578,24 +667,31 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Theconversation](https://theconversation.com): The Conversation's AI topic feed features academic-authored analysis and journalism on artificial intelligence.
 - [Thedailyupside](https://thedailyupside.com): The Daily Upside's AI section delivers business journalism on AI spending and market impact.
 - [Thedeepview](https://thedeepview.com): The Deep View is a daily newsletter summarizing AI industry news, research, and product launches.
+- [Thefinancialbrand](https://thefinancialbrand.com): The Financial Brand covers banking strategy and runs a dedicated, actively updated section on AI adoption in financial services.
 - [Thehackernews](https://thehackernews.com): The Hacker News covers cybersecurity incidents, vulnerabilities, and attacks involving AI systems and agents.
 - [Thehill](https://thehill.com): The Hill's AI desk covering Washington policy, congressional hearings, data-center politics, and AI regulation.
 - [Theneuron](https://theneuron.ai): The Neuron publishes daily AI news, product coverage, and explainers for a general tech-curious audience.
 - [Theoutpost](https://theoutpost.ai): TheOutpost.AI aggregates and curates AI industry news from dozens of sources, adding original editorial insight and analysis.
+- [Thequantuminsider](https://thequantuminsider.com): The Quantum Insider delivers daily news, analysis, and intelligence on quantum computing and deep-tech industry developments.
 - [Theregister](https://theregister.com): The Register's AI/ML section feed covering enterprise AI tooling, model rollouts, and sharp industry commentary.
 - [Therobotreport](https://therobotreport.com): The Robot Report covers robotics and physical-AI news, research, funding, and commercial deployments.
+- [Thestateofai](https://thestateofai.com): Outlever's State of AI covers enterprise AI adoption, costs, security, and the decisions facing engineering and brand leaders.
 - [Thetechportal](https://thetechportal.com): The Tech Portal's AI category covers frontier AI model launches, chips, and industry competition with daily updates.
+- [Theverge](https://theverge.com): The Verge's AI section covers artificial intelligence product launches, industry news, and policy from a mainstream tech newsroom.
 - [Thezvi](https://thezvi.substack.com): Zvi Mowshowitz's newsletter offers detailed independent weekly analysis of AI model releases and safety news.
 - [Thezvi](https://thezvi.wordpress.com): Don't Worry About the Vase, by Zvi Mowshowitz, delivers weekly deep-dive analysis of AI releases and policy.
 - [Thurrott](https://thurrott.com): Thurrott's AI Archives deliver original bylined reporting on consumer and enterprise AI products.
 - [Time](https://time.com): Time magazine's AI tag covering major artificial intelligence news, policy, and business developments.
 - [TLDR Newsletter](https://tldr.tech): Technology or business news source that regularly covers AI, software, and startup movement.
+- [TokenPost](https://tokenpost.com): TokenPost is a crypto and blockchain news outlet whose AI tag covers frequent, substantive AI/ML industry developments.
 - [Tokenstead](https://tokenstead.ai): Tokenstead tracks open-weight AI models and local hardware setups, publishing guides on running LLMs off the cloud.
 - [Tomsguide](https://tomsguide.com): Tom's Guide's AI section covers consumer AI news, product launches, and hands-on tool testing.
 - [Tomshardware](https://tomshardware.com): Tom's Hardware's AI section covering machine learning hardware, chips, and large language model news.
 - [Transformernews](https://transformernews.ai): Independent outlet covering frontier AI lab strategy, policy, and industry developments.
 - [Trendforce](https://trendforce.com): TrendForce's AI category covers semiconductor and emerging-tech market research and analysis.
+- [Trending Topics](https://trendingtopics.eu): Trending Topics is an Austrian tech outlet, dubbed the TechCrunch of Austria, covering AI, startups, and European innovation.
 - [Trendingtopics](https://trendingtopics.eu): Trending Topics' AI channel covers European AI and robotics startup funding in German.
+- [Tribune](https://tribune.com.pk): The Express Tribune's Sci-Tech section covers AI regulation, security, and corporate AI developments in Pakistani tech news.
 - [Turingpost](https://turingpost.substack.com): Turing Post is a newsletter delivering original analysis and explainers on AI research and industry.
 - [Turingpost](https://turingpost.com): Turing Post publishes deep-dive newsletters and explainers on AI research, models, and industry trends.
 - [Understandingai](https://understandingai.org): Timothy B. Lee's independent AI newsletter analyzing new models, agents, safety debates, and industry developments.
@@ -606,8 +702,11 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Verdict](https://verdict.co.uk): Verdict's AI section covers artificial intelligence funding, partnerships, and enterprise adoption news.
 - [Vktr](https://vktr.com): VKTR publishes AI news and analysis for enterprise technology and business leaders.
 - [Washingtonpost](https://washingtonpost.com): Washington Post's dedicated technology and AI section covering artificial intelligence models, policy, and industry impact.
+- [Wccftech](https://wccftech.com): Wccftech is a hardware and gaming tech outlet with frequent original coverage of AI chips and inference infrastructure.
 - [Wheresyoured](https://wheresyoured.at): Ed Zitron's newsletter delivers critical, data-driven investigations into AI industry economics.
+- [why Disney will pay $60 million a year to hire 66 employees](https://businesstoday.in): Business Today's AI section covers India-relevant developments, from corporate hiring and funding to policy and model news.
 - [Winbuzzer](https://winbuzzer.com): Winbuzzer covers Microsoft, Windows, and AI industry news including chatbots, models, and regulation.
+- [WinBuzzer](https://winbuzzer.com): WinBuzzer reports on Microsoft, Windows, and AI industry news including model releases, safety, and policy developments.
 - [Windowscentral](https://windowscentral.com): Windows Central's AI section covers AI news, how-tos, and comparisons for consumer tech.
 - [Winzheng](https://winzheng.com): Winzheng publishes daily AI model benchmark rankings alongside coverage of industry funding and policy news.
 - [Wired](https://wired.com): Broad technology and culture magazine that regularly covers AI companies and products.
@@ -616,8 +715,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [XDA Developers](https://xda-developers.com): XDA Developers' AI section covers local LLM tools, open-source models, and hands-on consumer AI testing.
 - [Xenospectrum](https://xenospectrum.com): XenoSpectrum is a Japanese tech outlet with a high-volume, daily-updated AI news section.
 - [Xyzlabs](https://xyzlabs.substack.com): XYZ Labs covers AI and technology developments from Greater China with technical, contextual analysis.
-- [Yahoo Finance Tech](https://finance.yahoo.com): Yahoo Finance's AI topic hub covering AI stocks, infrastructure spending, and business impact.
+- [Yahoo](https://tech.yahoo.com): Yahoo Tech aggregates AI product news and analysis on ChatGPT, Gemini, Copilot, and other AI platforms.
 - [Yahoo Finance Tech](https://yahoo.com): Markets-focused outlet that often surfaces public-company AI moves and reactions.
+- [Yahoo Finance Tech](https://finance.yahoo.com): Yahoo Finance's AI topic hub covering AI stocks, infrastructure spending, and business impact.
 - [新智元](https://aiera.com.cn): Chinese AI media source with fast coverage of AI model releases, companies, research, and industry news.
 - [晚点 LatePost](https://latepost.com): Chinese business and technology publication covering companies, founders, strategy, and AI industry context.
 - [晚点聊 LateTalk](https://feeds.fireside.fm): LatePost podcast feed with technology, founder, product, and AI industry conversations.
@@ -634,9 +734,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [AlphaXiv Trending](https://alphaxiv.org): Trending arXiv research surfaced for fast monitoring of academic AI momentum.
 - [HuggingFace Daily Papers](https://huggingface.co): Daily paper feed from Hugging Face highlighting current ML research.
 
-## Social Accounts to Follow (830)
+## Social Accounts to Follow (883)
 
-### X (678)
+### X (722)
 
 - [@jason](https://x.com/Jason): @Jason — Jason Calacanis, investor and host of This Week in AI, covers AI founders and trends.
 - [@levelsio](https://x.com/levelsio): @levelsio — indie hacker building AI products (PhotoAI, InteriorAI), shares building-in-public AI and startup insight.
@@ -646,11 +746,14 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Aakrit Vaish](https://x.com/aakrit): @aakrit — Haptik founder, leading voice in India's AI ecosystem and IndiaAI Mission.
 - [Aaron Levie](https://x.com/levie): Box CEO tracked for enterprise AI adoption, agent workflows, and software strategy commentary.
 - [Abacus.AI](https://x.com/abacusai): @abacusai — Abacus.AI, enterprise AI/ML platform and LLM product company.
+- [adammaj](https://x.com/MajmudarAdam): @MajmudarAdam — adammaj, OpenAI researcher, deep technical AI/hardware explainers and deep-learning history dives.
 - [Addy Osmani](https://x.com/addyosmani): @addyosmani — Addy Osmani, Google engineer writing on AI coding tools and developer productivity.
 - [aden barton](https://x.com/aden_barton): @aden_barton — AI economics researcher at Mercor, writes on AI's labor-market and productivity impact.
 - [Adrien Grondin](https://x.com/adrgrondin): @adrgrondin — Builds Locally AI app, shares on-device LLM performance benchmarks.
+- [AGIHound](https://x.com/TrueAIHound): @TrueAIHound — AGIHound, posts regular critical commentary on AGI, LLM limitations, and intelligence research.
 - [Ahmad](https://x.com/TheAhmadOsman): @TheAhmadOsman — AI/infra engineer, r/LocalLLaMA mod, posts on local AI deployment and hardware.
 - [AI at Meta](https://x.com/AIatMeta): @AIatMeta — Meta's official account for Llama models and FAIR research updates.
+- [AI Evolution](https://x.com/AiEvolutio58513): @AiEvolutio58513 — AI Evolution, curates AI model/tool news (ChatGPT, Claude) and industry commentary.
 - [AI Highlight](https://x.com/AIHighlight): @AIHighlight — curates daily AI news highlights, model releases, and notable AI industry developments.
 - [AI Notkilleveryoneism Memes ⏸️](https://x.com/AISafetyMemes): @AISafetyMemes — AI Notkilleveryoneism Memes, focus on AI safety/x-risk commentary via memes and threads.
 - [AI Security Institute](https://x.com/AISecurityInst): @AISecurityInst — AI Security Institute, UK government body focused on frontier AI safety evaluation.
@@ -671,11 +774,13 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Alex Prompter](https://x.com/alex_prompter): @alex_prompter — shares AI prompt-engineering tips, tool roundups, and generative-AI workflow content.
 - [Alex Rives](https://x.com/alexrives): @alexrives — cofounder of EvolutionaryScale, builds protein language models (ESM), ex Meta AI researcher.
 - [Alex Veremeyenko](https://x.com/alex_verem): @alex_verem — Alex Veremeyenko, curates open-source and applied AI research with wide following.
+- [Alex Wiltschko](https://x.com/awiltschko): @awiltschko — CEO of Osmo, ex-Google Brain researcher, AI for digitizing the sense of smell.
 - [Alex Zhavoronkov, PhD (aka Aleksandrs Zavoronkovs)](https://x.com/biogerontology): @biogerontology — CEO of Insilico Medicine, AI drug discovery and longevity research.
 - [Alex 🧩 Scaling Video GenAI](https://x.com/alexmashrabov): @alexmashrabov — Alex, focused on scaling video generative AI, posts on video-gen model progress.
 - [Alexander Koch](https://x.com/alexkoch_ai): @alexkoch_ai — founder of Tau Robotics, shares AI robot-arm training and humanoid robotics work.
 - [Alexander Panfilov](https://x.com/kotekjedi_ml): @kotekjedi_ml — ML researcher.
 - [Alexandr Wang](https://x.com/alexandr_wang): X account tracked for AI commentary, launches, and technical signal.
+- [Alexey Fateev](https://x.com/superalesha): @superalesha — Alexey Fateev, posts deep technical content on local LLM inference, quantization, and model internals.
 - [Alexia Jolicoeur-Martineau](https://x.com/jm_alexia): @jm_alexia — Alexia Jolicoeur-Martineau, AI researcher known for diffusion model research.
 - [Ali Ghodsi](https://x.com/alighodsi): @alighodsi — Ali Ghodsi, Databricks CEO, focus on enterprise AI, data platforms, and lakehouse strategy.
 - [Alibaba Cloud](https://x.com/alibaba_cloud): @alibaba_cloud — Alibaba Cloud, official account, focus on Qwen models and enterprise cloud AI services.
@@ -693,6 +798,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Andrew Carr 🤸](https://x.com/andrew_n_carr): @andrew_n_carr — AI/ML researcher known for RL, generative modeling, and open research posts.
 - [andrew chen](https://x.com/andrewchen): @andrewchen — a16z general partner writing on growth, startups, and AI product trends.
 - [Andrew Curran](https://x.com/AndrewCurran_): @AndrewCurran_ — Andrew Curran, curates breaking AI news, model releases, and policy developments.
+- [Andrew M. Dai](https://x.com/AndrewDai): @AndrewDai — Andrew M. Dai, Google Brain/DeepMind researcher (GShard, PaLM) and Elorian AI co-founder.
 - [Andrew Ng](https://x.com/AndrewYNg): X account tracked for AI commentary, launches, and technical signal.
 - [Andrey Styskin](https://x.com/styskin): @styskin — CEO/cofounder of Keenable, ex-Yandex Search, focus on AI-native web search infrastructure.
 - [Anissa Gardizy](https://x.com/anissagardizy8): @anissagardizy8 — The Information reporter covering AI infrastructure, data centers, and compute buildouts.
@@ -715,6 +821,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [AshutoshShrivastava](https://x.com/ai_for_success): @ai_for_success — widely-followed AI news curator covering model releases and industry developments daily.
 - [Assaf Elovic](https://x.com/assaf_elovic): @assaf_elovic — Creator of GPT Researcher, popular open-source AI research agent.
 - [Atai Barkai](https://x.com/ataiiam): @ataiiam — CEO of CopilotKit, focus on AI agent frontends (AG-UI).
+- [atomic.chat](https://x.com/atomic_chat_hq): @atomic_chat_hq — atomic.chat, local-AI inference app posting model benchmarks and local LLM releases.
 - [Austen Allred](https://x.com/Austen): @Austen — Austen Allred, co-founder of Gauntlet AI, focus on AI-driven coding education and hiring.
 - [AVB](https://x.com/neural_avb): @neural_avb — creates AI research breakdowns covering RLHF, DPO, and synthetic data methods.
 - [Avi Chawla](https://x.com/_avichawla): @_avichawla — Avi Chawla, co-founder Daily Dose of Data Science, focus on practical ML/AI tutorials.
@@ -739,8 +846,11 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Ben Poole](https://x.com/poolio): @poolio — Ben Poole, Google DeepMind/Stanford researcher known for DreamFusion and generative modeling.
 - [benahorowitz.eth](https://x.com/bhorowitz): @bhorowitz — Ben Horowitz, a16z co-founder, major VC voice on AI startups and industry strategy.
 - [Bernt Bornich](https://x.com/BerntBornich): @BerntBornich — 1X Technologies CEO, updates on humanoid robots and embodied AI.
+- [bg2clips](https://x.com/bg2clips): @bg2clips — fan-run clips from the BG2 Pod (Gerstner/Gurley), covering AI industry strategy, models, and compute.
+- [Big Brain AI](https://x.com/realBigBrainAI): @realBigBrainAI — Big Brain AI, curates AI industry commentary and expert takes on AI's workforce/societal impact.
 - [bilal 🔶](https://x.com/bilalchughtai_): @bilalchughtai_ — Bilal Chughtai, ex-DeepMind AGI safety researcher, now at BlueDot Impact.
 - [Bindu Reddy](https://x.com/bindureddy): @bindureddy — Abacus.AI CEO, frequent commentary on LLMs and AI industry developments.
+- [Black Forest Labs](https://x.com/bfl_ai): @bfl_ai — Black Forest Labs, AI image-generation lab behind the FLUX model family.
 - [Bland](https://x.com/usebland): @usebland — Bland AI, voice AI agent platform for phone calls.
 - [Bo Wang](https://x.com/BoWang87): @BoWang87 — ML researcher (Vector Institute/UHN) focused on biomedical and genomics AI models.
 - [Bojan Tunguz](https://x.com/tunguz): @tunguz — Bojan Tunguz, ex-NVIDIA ML engineer & Kaggle Grandmaster, AI/ML industry commentary.
@@ -753,6 +863,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Brian Hall](https://x.com/IsForAt): @IsForAt — CMO of Mistral AI, ex Google Cloud/AWS/Microsoft exec, shares open-weight AI and industry strategy takes.
 - [Brian Roemmele](https://x.com/BrianRoemmele): @BrianRoemmele — prominent AI commentator on prompting techniques and AI industry trends.
 - [Bridgebench](https://x.com/bridgebench): @bridgebench — Benchmarks frontier AI coding models, publishes vibe-coding leaderboard results.
+- [Brivael Le Pogam](https://x.com/brivael): @brivael — Brivael Le Pogam, AI researcher/entrepreneur, co-founder of Argil AI (YC S24), French voice on AI and techno-optimism.
 - [BURKOV](https://x.com/burkov): @burkov — Andriy Burkov, ML author, focus on machine learning fundamentals and AI industry commentary.
 - [Caitlin Kalinowski](https://x.com/kalinowski007): @kalinowski007 — Caitlin Kalinowski, robotics and AI hardware leader (OpenAI robotics, ex-Meta AR/VR).
 - [Cameron R. Wolfe, Ph.D.](https://x.com/cwolferesearch): @cwolferesearch — Cameron R. Wolfe, ML researcher and educator, writes the Deep Learning Focus newsletter.
@@ -773,6 +884,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Chris](https://x.com/ChrisGPT): @ChrisGPT — AI industry reporter covering frontier labs, featured in Axios and The Information.
 - [Chris Laub](https://x.com/ChrisLaubAI): @ChrisLaubAI — Chris Laub, shares AI adoption trends, prompts, and model comparisons across OpenAI, Gemini, and Claude.
 - [Chris Painter](https://x.com/ChrisPainterYup): @ChrisPainterYup — Chris Painter, President of METR, works on AI model evaluation and safety.
+- [Christian Miele](https://x.com/christianmiele): @christianmiele — Christian Miele, Headline VC General Partner backing European AI/deep-tech startups (incl. Mistral AI).
 - [christina](https://x.com/luoluo_ai): @luoluo_ai — MIT student and xAI Grok reasoning team contributor, focus on multimodal AI reasoning.
 - [Chubby♨️](https://x.com/kimmonismus): @kimmonismus (Chubby) — widely-followed account tracking frontier AI model releases and research.
 - [Clara Bennett](https://x.com/CodeswithClara): @CodeswithClara — Clara Bennett, AI & tech educator, focus on AI tool reviews and no-code workflows.
@@ -784,6 +896,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Cognition](https://x.com/cognition): @cognition — official account of Cognition AI, maker of the Devin autonomous software engineer.
 - [Cohere](https://x.com/cohere): @cohere — official account of Cohere, major enterprise LLM company.
 - [Colaboratory](https://x.com/GoogleColab): @GoogleColab — Official Google Colaboratory account for ML/AI notebook development.
+- [Composio](https://x.com/composio): @composio — Composio, integration/tooling platform for AI agents.
 - [Computer](https://x.com/AskPerplexity): @AskPerplexity — official Perplexity AI answer bot account.
 - [Cory Weinberg](https://x.com/coryweinberg): @coryweinberg — The Information reporter covering Anthropic and the AI industry.
 - [Cristóbal Valenzuela](https://x.com/c_valenzuelab): @c_valenzuelab — Cristóbal Valenzuela, co-founder/CEO of Runway, a leading generative AI company.
@@ -831,16 +944,19 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Dreamina AI](https://x.com/dreamina_ai): @dreamina_ai — Dreamina AI, AI image/video generation product.
 - [Dustin](https://x.com/r0ck3t23): @r0ck3t23 — Dustin, AI commentator analyzing frontier lab news and industry trends.
 - [Dwarkesh Patel](https://x.com/dwarkesh_sp): @dwarkesh_sp — Dwarkesh Patel, host of the Dwarkesh Podcast, focus on in-depth AI researcher interviews.
+- [Dylan Foster 🐢](https://x.com/canondetortugas): @canondetortugas — Dylan Foster, MSR/incoming UC Berkeley professor, posts RL theory and LLM reasoning research.
 - [Dylan Patel](https://x.com/dylan522p): @dylan522p — SemiAnalysis founder, in-depth analysis of AI chips and compute infrastructure.
 - [dylan ツ](https://x.com/demian_ai): @demian_ai — AI-focused commentary account.
 - [Ed Newton-Rex](https://x.com/ednewtonrex): @ednewtonrex — Ed Newton-Rex, founder of Fairly Trained, focus on ethical AI training data & policy.
 - [Ed Zitron](https://x.com/edzitron): @edzitron — journalist known for pointed critical commentary on the AI industry and hype cycle.
 - [el.cine](https://x.com/EHuanglu): @EHuanglu — AI filmmaking creator showcasing generative video and image tools like Midjourney and Runway.
 - [ElevenLabs](https://x.com/ElevenLabs): @ElevenLabs — official account of ElevenLabs, leading AI voice synthesis company.
+- [Eli Lifland](https://x.com/eli_lifland): @eli_lifland — AI Futures Project researcher, co-author of the AI 2027 forecasting report.
 - [elie](https://x.com/eliebakouch): @eliebakouch — Hugging Face researcher, active in open-source LLM training community.
 - [Eliezer Yudkowsky](https://x.com/allTheYud): @allTheYud — Eliezer Yudkowsky, AI safety researcher and MIRI cofounder, focus on AI alignment/x-risk.
 - [Eliezer Yudkowsky ⏹️](https://x.com/ESYudkowsky): @ESYudkowsky — Eliezer Yudkowsky, prominent AI safety researcher and rationalist thinker.
 - [Elon Musk](https://x.com/elonmusk): @elonmusk — founder of xAI/Grok, a major AI lab, occasionally posts on AI development.
+- [Elorian AI](https://x.com/ElorianAI): @ElorianAI — funded multimodal reasoning AI lab building visual-AGI foundation models (Glimpse).
 - [elvis](https://x.com/omarsar0): X account tracked for AI commentary, launches, and technical signal.
 - [Emad](https://x.com/EMostaque): @EMostaque — former Stability AI CEO, prominent generative AI industry commentator.
 - [engineer cat 🐈](https://x.com/MLCatttt): @MLCatttt — Co-founder of Banbury Road, multi-agent AI research lab, posts AI research updates.
@@ -866,6 +982,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Fidji Simo](https://x.com/fidjissimo): @fidjissimo — OpenAI CEO of Applications, ex-Instacart CEO, major AI industry executive.
 - [Finely Tuned](https://x.com/finelytunedai): @finelytunedai — AI-focused commentary/tools account.
 - [Fish Audio](https://x.com/FishAudio): @FishAudio — AI speech/TTS company behind Fish Speech models.
+- [FlashLabs](https://x.com/flashlabsdotai): @flashlabsdotai — FlashLabs, AI agent/voice startup behind SuperAgent and the open-source Chroma speech-to-speech model.
 - [Florian Brand](https://x.com/xeophon): @xeophon — AI researcher/evals at Prime Intellect.
 - [Forward Future Brian](https://x.com/ForwardEditor): @ForwardEditor — editor at Forward Future, an AI news/media outlet covering frontier AI.
 - [Francois Chaubard](https://x.com/FrancoisChauba1): @FrancoisChauba1 — Francois Chaubard, Stanford AI researcher and YC partner, posts on LLM research.
@@ -901,6 +1018,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Grant Lee](https://x.com/thisisgrantlee): @thisisgrantlee — Grant Lee, co-founder/CEO of Gamma, AI-native presentation platform.
 - [Greg Brockman](https://x.com/gdb): @gdb — Greg Brockman, OpenAI co-founder & President, focus on frontier model development.
 - [GREG ISENBERG](https://x.com/gregisenberg): @gregisenberg — startup community builder focused heavily on AI product and business ideas.
+- [Gregory M. Kurtzer](https://x.com/gmkurtzer): @gmkurtzer — Gregory Kurtzer, CEO of Ctrl IQ, founder of Rocky Linux/Apptainer, posts on AI/HPC infrastructure and open foundation models.
 - [Grok](https://x.com/grok): @grok — Official account for Grok, xAI's AI chatbot.
 - [Guillermo Rauch](https://x.com/rauchg): Vercel CEO tracked for AI application infrastructure, web development, security, and product platform signal.
 - [Hamid Maei](https://x.com/HamidMaei): @HamidMaei — ML/reinforcement-learning researcher, ex-Snorkel AI, shares AI research commentary.
@@ -928,6 +1046,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Inworld AI](https://x.com/inworld_ai): @inworld_ai — Inworld AI, builder of AI character and NPC engines for games and interactive media.
 - [IREN](https://x.com/IREN_Ltd): @IREN_Ltd — data-center operator pivoting from Bitcoin mining to AI cloud and GPU infrastructure at scale.
 - [ITmedia AI＋](https://x.com/itm_aiplus): @itm_aiplus — ITmedia AI+, Japanese AI-focused tech media outlet.
+- [Ivan Fioravanti](https://x.com/ivanfioravanti): @ivanfioravanti — Local AI/MLX builder, posts Apple Silicon LLM benchmarks and quantization work.
 - [Ivan Kirigin](https://x.com/ikirigin): @ikirigin — AI and robotics investor at Tango.vc, builds and shares AI startup ideas.
 - [Ivan Landabaso](https://x.com/IvanLandabaso): @IvanLandabaso — VC at JME Ventures, shares in-depth AI startup, funding, and venture-capital market analysis.
 - [Jack Morris](https://x.com/jxmnop): @jxmnop — Jack Morris, AI researcher known for embedding inversion and privacy research.
@@ -949,9 +1068,11 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [jietang](https://x.com/jietang): @jietang — Jie Tang, Tsinghua professor and co-founder of Zhipu AI (GLM/ChatGLM).
 - [Jim Fan](https://x.com/DrJimFan): @DrJimFan — Jim Fan, NVIDIA senior research scientist, focus on embodied AI and robot foundation models.
 - [Jim Liu](https://x.com/jiahanjimliu): @jiahanjimliu — Jim Liu, analysis on AI infrastructure spend, compute, and open-source models.
+- [jinjingliang](https://x.com/JinjingLiang): @JinjingLiang — Jinjing Liang, ex-Google/YC engineer building open-source AI dev tooling (Orca), posts on AI-assisted engineering.
 - [Jino Rohit](https://x.com/jino_rohit): @jino_rohit — ML engineer sharing LLM systems/inference optimization work.
 - [Jochen Madler](https://x.com/jochenmadler): @jochenmadler — Jochen Madler, founder of Sitefire, building marketing tools for the agentic AI web.
 - [Joe Benton](https://x.com/JoeJBenton): @JoeJBenton — Anthropic alignment and safety researcher, works on AI model evaluations.
+- [Joe Lonsdale](https://x.com/JTLonsdale): @JTLonsdale — Joe Lonsdale, 8VC founder/VC investing heavily in AI, posts on AI industrial policy and regulation.
 - [John Carmack](https://x.com/ID_AA_Carmack): @ID_AA_Carmack — John Carmack, working on AGI research at Keen Technologies.
 - [John Jumper](https://x.com/JohnJumperSci): @JohnJumperSci — Nobel laureate, DeepMind scientist behind AlphaFold, shares AI-for-science research updates.
 - [John Schulman](https://x.com/johnschulman2): @johnschulman2 — OpenAI co-founder, RL and post-training research commentary.
@@ -970,6 +1091,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Kaggle](https://x.com/kaggle): @kaggle — official Kaggle account, Google's ML competition and data science platform.
 - [Karan🧋](https://x.com/kmeanskaran): @kmeanskaran — ML-focused handle/commentary.
 - [Karl Mehta](https://x.com/karlmehta): @karlmehta — 3x AI founder/author, focus on AI policy and digital public infrastructure.
+- [Keerthana Gopalakrishnan](https://x.com/keerthanpg): @keerthanpg — AI/robotics researcher (ex-Google Brain), posts on embodied AI and ML research.
+- [Keith Woods](https://x.com/KeithWoodsYT): @KeithWoodsYT — AI YouTuber building and explaining AI agents, automation, and LLM tooling tutorials.
+- [Kelsey Piper](https://x.com/KelseyTuoc): @KelseyTuoc — Journalist (ex-Vox), covers AI safety, alignment, and AI lab accountability closely.
 - [Kevin A. Bryan](https://x.com/Afinetheorem): @Afinetheorem — Kevin A. Bryan, economist publishing widely-followed research and commentary on the economics of AI.
 - [Kevin Kwok](https://x.com/kevinakwok): @kevinakwok — VC at Khosla Ventures focused on AI, developer tools; writes tech strategy essays (Kwokchain).
 - [Kevin Liu](https://x.com/kliu128): @kliu128 — Kevin Liu, known for AI prompt-injection research and LLM security commentary.
@@ -981,6 +1105,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Kimi Developers](https://x.com/KimiDevs): @KimiDevs — official developer account for Kimi AI (Moonshot AI), shares model releases and technical updates.
 - [Kimi.ai](https://x.com/Kimi_Moonshot): @Kimi_Moonshot — Kimi.ai / Moonshot AI, focus on Kimi large language model releases and research.
 - [Kirk Borne](https://x.com/KirkDBorne): @KirkDBorne — Kirk Borne, prominent AI and data science commentator and educator.
+- [Kol Tregaskes](https://x.com/koltregaskes): @koltregaskes — UK-based AI news curator covering model releases, tools, and AI industry developments.
 - [Konstantine Buhler](https://x.com/Konstantine): @Konstantine — Sequoia Capital partner, AI engineer, posts on AI investing and the agent economy.
 - [koray kavukcuoglu](https://x.com/koraykv): @koraykv — Koray Kavukcuoglu, senior Google DeepMind AI researcher/CTO.
 - [Krea](https://x.com/krea_ai): @krea_ai — AI image and video generation company shipping creative-generation tools and models.
@@ -994,6 +1119,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Lee Robinson](https://x.com/leerob): @leerob — Lee Robinson, VP at Vercel, writes on AI coding tools and developer workflows.
 - [Lenny Rachitsky](https://x.com/lennysan): X account tracked for AI commentary, launches, and technical signal.
 - [leo 🐾](https://x.com/synthwavedd): @synthwavedd — AI/tech commentator known for AI industry scoops.
+- [leonie](https://x.com/helloiamleonie): @helloiamleonie — ML engineer/DevRel known for practical RAG, LLM, and ML-engineering explainers.
 - [Leonie](https://x.com/helloiamleonie): @helloiamleonie — Leonie, AI/ML content creator, focus on RAG, vector databases, and applied AI.
 - [Lex Fridman](https://x.com/lexfridman): Lex Fridman's account tracked for interviews and AI conversation signal.
 - [Lian Lim | Dashboard & AI Automation Expert](https://x.com/dashboardlim): @dashboardlim — Dashboard & AI automation expert sharing AI agent-building and automation workflow content.
@@ -1007,6 +1133,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [LM Studio](https://x.com/lmstudio): @lmstudio — official account of LM Studio, desktop app for running local LLMs.
 - [Logan Kilpatrick](https://x.com/OfficialLoganK): @OfficialLoganK — Logan Kilpatrick, leads Google AI Studio and Gemini API developer platform.
 - [Luiza Jarovsky, PhD](https://x.com/LuizaJarovsky): @LuizaJarovsky — Luiza Jarovsky, PhD, AI governance and privacy law researcher, focus on AI regulation.
+- [Lukas Ziegler](https://x.com/lukas_m_ziegler): @lukas_m_ziegler — Lukas Ziegler, robotics/AI media founder and evangelist, covers robotics+AI developments (World Labs, Skild AI).
 - [Lumina](https://x.com/LuminaBench): @LuminaBench — Publishes AI model benchmark leaderboards.
 - [Lydia Hallie ✨](https://x.com/lydiahallie): @lydiahallie — Lydia Hallie, on the Claude Code team at Anthropic, posts on AI dev tooling.
 - [Maggie Harrison Dupré](https://x.com/mags_h11): @mags_h11 — Futurism journalist covering the AI industry beat.
@@ -1042,6 +1169,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Mihail Eric](https://x.com/mihail_eric): @mihail_eric — AI/ML writer and engineer covering conversational AI and LLM research.
 - [Mike Bradley](https://x.com/MikeBradleyAI): @MikeBradleyAI — Mike Bradley, focus on GPU inference benchmarking and open-source AI model security.
 - [Min Choi](https://x.com/minchoi): @minchoi — popular AI content creator covering daily AI tool news and tutorials.
+- [Minh Nhat Nguyen 🦭](https://x.com/menhguin): @menhguin — Minh Nhat Nguyen, AI agents builder (AIHubCentral) posting AI capability commentary.
 - [MiniMax (official)](https://x.com/MiniMax_AI): @MiniMax_AI — official account of Chinese AI lab MiniMax, posting model releases and research updates.
 - [Mira Murati](https://x.com/miramurati): @miramurati — Mira Murati, CEO of Thinking Machines Lab, former OpenAI CTO, focus on frontier AI research.
 - [Mirage](https://x.com/trymirage): @trymirage — Mirage, AI company building audio-to-video and avatar generation foundation models.
@@ -1060,9 +1188,11 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Nathan Benaich](https://x.com/nathanbenaich): @nathanbenaich — Nathan Benaich, Air Street Capital, co-author of the annual State of AI Report.
 - [Nathan Lambert](https://x.com/natolambert): @natolambert — Allen Institute for AI researcher, RLHF and post-training expert.
 - [Nav Toor](https://x.com/heynavtoor): @heynavtoor — Nav Toor, AI education creator sharing practical AI guides, prompts, and tool workflows.
+- [Neel Nanda](https://x.com/NeelNanda5): @NeelNanda5 — DeepMind mechanistic interpretability researcher, writes on AI interpretability.
 - [Neil Chowdhury](https://x.com/ChowdhuryNeil): @ChowdhuryNeil — Neil Chowdhury, AI safety researcher at Thinking Machines Lab, ex-OpenAI Preparedness.
 - [Neuralink](https://x.com/neuralink): @neuralink — Elon Musk's brain-computer interface company, AI-adjacent neurotech research.
 - [Nicholas Charriere](https://x.com/nichochar): @nichochar — founder building an AI-powered website builder (Mocha), posts on AI dev tooling.
+- [Nick](https://x.com/nickcammarata): @nickcammarata — Ex-OpenAI mechanistic interpretability researcher, now at Goodfire AI.
 - [Nick Dobos](https://x.com/NickADobos): @NickADobos — Nick Dobos, indie developer, focus on AI coding tools and product experimentation.
 - [Nick St. Pierre](https://x.com/nickfloats): @nickfloats — prominent commentator tracking AI image/video generation (Midjourney, DALLE, etc).
 - [Nicolas Bustamante](https://x.com/nicbstme): @nicbstme — AI product lead at Microsoft (ex-Fintool CEO), writes influential AI industry analysis.
@@ -1090,6 +1220,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [OpenAI](https://x.com/OpenAI): Official OpenAI account monitored for launches, model updates, and platform signal.
 - [OpenAI Developers](https://x.com/OpenAIDevs): Developer-facing OpenAI account for API releases, tooling changes, and examples.
 - [OpenAI Newsroom](https://x.com/OpenAINewsroom): @OpenAINewsroom — official OpenAI announcements and product news account.
+- [OpenBMB](https://x.com/OpenBMB): @OpenBMB — Open-source LLM lab behind the MiniCPM model family, AI research and releases.
 - [OpenClaw🦞](https://x.com/openclaw): @openclaw — OpenClaw, self-hosted personal AI agent assistant.
 - [OpenCode](https://x.com/opencode): @opencode — official account for the OpenCode AI coding agent, shares releases and agentic coding updates.
 - [OpenMed](https://x.com/OpenMed_AI): @OpenMed_AI — open-source AI models and tools for healthcare/medicine.
@@ -1122,6 +1253,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Philip Johnston](https://x.com/PhilipJohnston): @PhilipJohnston — Cofounder/CEO of Starcloud, focus on orbital data centers for AI compute.
 - [Philip Kiely](https://x.com/philipkiely): @philipkiely — Baseten leader writing on AI model inference infrastructure and LLM deployment.
 - [Philipp Schmid](https://x.com/_philschmid): @_philschmid — well-known AI/ML technical educator (Google DeepMind, ex-Hugging Face).
+- [Phillip Isola](https://x.com/phillip_isola): @phillip_isola — MIT professor, computer vision/generative AI researcher (pix2pix, CycleGAN).
+- [Physical Intelligence](https://x.com/physical_int): @physical_int — Physical Intelligence, AI robotics lab building general-purpose robot foundation models.
 - [Pierrick Chevallier | IA](https://x.com/CharaspowerAI): @CharaspowerAI — French AI (IA) content creator.
 - [Pietro Schirano](https://x.com/skirano): @skirano — Pietro Schirano, well-known AI builder and designer sharing hands-on AI product demos.
 - [Piotr Sankowski](https://x.com/piotrsankowski): @piotrsankowski — professor and AI research institute director (IDEAS NCBR/ELLIS Warsaw), algorithms and AI.
@@ -1132,6 +1265,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Prime Intellect](https://x.com/PrimeIntellect): @PrimeIntellect — decentralized/open AI training company building distributed compute infrastructure.
 - [PrismML](https://x.com/PrismML): @PrismML — AI lab (Caltech origins) building efficient small/on-device models like Bonsai.
 - [Prof. Anima Anandkumar](https://x.com/AnimaAnandkumar): @AnimaAnandkumar — Bren Professor at Caltech and NVIDIA AI research director, focus on ML for science.
+- [Psyho](https://x.com/FakePsyho): @FakePsyho — Psyho, ex-OpenAI, top competitive programmer commentating on AI vs human coding competitions.
 - [Pushmeet Kohli](https://x.com/pushmeet): @pushmeet — Pushmeet Kohli, VP of Research at Google DeepMind, focus on AI safety and science.
 - [Quanquan Gu](https://x.com/QuanquanGu): @QuanquanGu — Quanquan Gu, UCLA professor researching machine learning theory.
 - [Qwen](https://x.com/Alibaba_Qwen): @Alibaba_Qwen — official account for Alibaba's Qwen open-weight LLM family and releases.
@@ -1139,7 +1273,9 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [RadixArk](https://x.com/radixark): @radixark — AI infrastructure startup building large-scale inference/training systems, founded by SGLang core devs.
 - [Rahul](https://x.com/sairahul1): @sairahul1 — AI educator posting practical tool breakdowns and analysis of AI lab strategy shifts.
 - [Rajesh Thallam](https://x.com/rajesh_thallam): @rajesh_thallam — AI infrastructure engineer (ex-Google Cloud), building EnsureCare, focus on agentic AI systems.
+- [Ravi Gupta](https://x.com/GuptaRK22): @GuptaRK22 — Ravi Gupta, Sequoia Capital partner, posts commentary on AI-driven business transformation.
 - [Ravid Shwartz Ziv](https://x.com/ziv_ravid): @ziv_ravid — Ravid Shwartz-Ziv, NYU AI/ML researcher known for information-theoretic deep learning work.
+- [Ray Fernando](https://x.com/RayFernando1337): @RayFernando1337 — Ex-Apple engineer turned AI builder, livestreams AI coding and tool-building.
 - [Reflection](https://x.com/reflection_ai): @reflection_ai — Reflection AI, frontier AI research lab building autonomous coding agents.
 - [Reid Southen](https://x.com/Rahll): @Rahll — Reid Southen, VFX artist and prominent commentator on generative AI art/copyright issues.
 - [Remi Cadene](https://x.com/RemiCadene): @RemiCadene — Hugging Face robotics lead, creator of the LeRobot project.
@@ -1148,6 +1284,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Richard Sutton](https://x.com/RichardSSutton): @RichardSSutton — legendary RL researcher (co-author of Sutton & Barto), foundational voice in AI.
 - [Ritwik Pavan](https://x.com/ritwikpavan): @ritwikpavan — SF-based AI/robotics founder covering consumer AI hardware and gadget launches.
 - [rob - comfyui](https://x.com/hellorob): @hellorob — Rob, associated with ComfyUI, posts on AI image/video generation workflows.
+- [Rob Bensinger ⏹️](https://x.com/robbensinger): @robbensinger — AI safety researcher at MIRI, writes on AI risk, alignment, and agent foundations.
 - [Rob Miles](https://x.com/robertskmiles): @robertskmiles — AI safety researcher and educator known for accessible alignment explainers.
 - [Robert Scoble](https://x.com/Scobleizer): @Scobleizer — veteran tech blogger covering AI, robotics, and emerging tech trends with hands-on commentary.
 - [Robert Youssef](https://x.com/rryssf_): X account tracked for AI commentary, launches, and technical signal.
@@ -1214,8 +1351,10 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Stephen Wolfram](https://x.com/stephen_wolfram): @stephen_wolfram — Wolfram Research founder, writes extensively on AI, LLMs, and computation.
 - [Steve (Builder.io)](https://x.com/Steve8708): @Steve8708 — Builder.io CEO, active AI coding agent builder and commentator.
 - [steve hsu](https://x.com/hsu_steve): @hsu_steve — Steve Hsu, physicist and AI founder commenting on frontier AI progress and economics.
+- [Steve Jurvetson](https://x.com/FutureJurvetson): @FutureJurvetson — VC (Future Ventures/DFJ), posts thoughtful commentary on AI research and risk.
 - [Steve Yegge](https://x.com/Steve_Yegge): @Steve_Yegge — Steve Yegge, engineer at Sourcegraph, focus on AI coding agents and developer tooling.
 - [Steven Cheng](https://x.com/stevencheng): @stevencheng — Steven Cheng, builds computer-vision and physical-AI robotics projects.
+- [Sudo su](https://x.com/sudoingX): @sudoingX — Sudo su, builds and shares tools for running local LLMs on consumer GPUs.
 - [Suhail](https://x.com/Suhail): @Suhail — Suhail Doshi, founder of Playground AI, a prominent generative-AI builder.
 - [Sumanth](https://x.com/Sumanth_077): @Sumanth_077 — shares practical AI/LLM tutorials, RAG pipelines, and hands-on AI engineering content.
 - [Sundar Pichai](https://x.com/sundarpichai): @sundarpichai — Google CEO, major source of Gemini and AI product/research announcements.
@@ -1228,6 +1367,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Tanishq Mathew Abraham, Ph.D.](https://x.com/iScienceLuvr): @iScienceLuvr — AI researcher (PhD) and prolific curator of cutting-edge ML/AI research papers and breakthroughs.
 - [Tapa Ghosh](https://x.com/semiDL): @semiDL — Tapa Ghosh, founder of Volantis Semiconductor, posts on AI chips and deep learning.
 - [Tareq Amin](https://x.com/TareqAmin_): @TareqAmin_ — CEO of HUMAIN, building a full AI stack (infra, models, apps).
+- [Tatsunori Hashimoto](https://x.com/tatsu_hashimoto): @tatsu_hashimoto — Stanford AI professor, NLP/ML research and model alignment commentary.
 - [Tavus](https://x.com/tavus): @tavus — Tavus, AI company building realistic video/avatar generation APIs.
 - [Teamily AI](https://x.com/Teamily_AI): @Teamily_AI — Teamily AI, human+agent social platform where AI agents join team chats.
 - [Tech with Mak](https://x.com/techNmak): @techNmak — AI/tech account covering ML system design and AI engineering career content.
@@ -1261,6 +1401,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Tongyi Lab](https://x.com/Ali_TongyiLab): @Ali_TongyiLab — Alibaba Tongyi Lab, developers of the Qwen model family.
 - [Tristan Harris](https://x.com/tristanharris): @tristanharris — Tristan Harris, co-founder of Center for Humane Technology, AI ethics commentator.
 - [Tuo Liu](https://x.com/Robo_Tuo): @Robo_Tuo — Tuo Liu, founder in physical AI and robotics hardware.
+- [TypeSafe AI](https://x.com/typesafeai): @typesafeai — well-funded AI lab (a16z/Sequoia backed) building Jev, a structured-decision AI model.
 - [Ujjwal Chadha](https://x.com/ujjwalscript): @ujjwalscript — AI engineering lead sharing practical RAG, vector database, and AI-engineer career content.
 - [Unsloth AI](https://x.com/UnslothAI): @UnslothAI — official account for Unsloth, fast LLM fine-tuning and optimization toolkit.
 - [Utkarsh Sharma](https://x.com/techxutkarsh): @techxutkarsh — posts daily AI tools, prompts, guides, and AI industry news.
@@ -1271,6 +1412,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Valerio Capraro](https://x.com/ValerioCapraro): @ValerioCapraro — professor researching human-AI interaction and judgment, shares AI findings on X.
 - [Vals AI](https://x.com/ValsAI): @ValsAI — AI model benchmarking/evals company, recognizable in the AI evaluation space.
 - [Varun Mayya](https://x.com/waitin4agi_): @waitin4agi_ — Varun Mayya, entrepreneur and creator, focus on AI/AGI trends and startup commentary.
+- [Varun Mohan](https://x.com/_mohansolo): @_mohansolo — CEO of Windsurf (Codeium), AI coding tools and agentic software engineering.
 - [Venky Ganesan](https://x.com/venkyganesan): @venkyganesan — VC at Foundation Capital, writes on AI investing trends and startups.
 - [Victor M](https://x.com/victormustar): @victormustar — Hugging Face product lead, posts on open-source AI models and tools.
 - [vik](https://x.com/vikhyatk): @vikhyatk — creator of Moondream, a small vision-language AI model; active AI research commentary.
@@ -1283,11 +1425,13 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Vitto Rivabella](https://x.com/VittoStack): @VittoStack — AI Coordinator at Ethereum Foundation, works on AI-agent security and trust layers (ERC-8004) and LLM red-teaming.
 - [Vivix.AI](https://x.com/VivixLabs_HQ): @VivixLabs_HQ — Vivix.AI, builds real-time interactive multimodal AI character models.
 - [Vocal Bridge](https://x.com/VocalBridge): @VocalBridge — AI voice-agent platform (AI Fund portfolio company) for adding voice to LLM agents.
+- [VraserX e/acc](https://x.com/VraserX): @VraserX — e/acc AI commentator, posts frequently on AGI race, AI safety, and model releases.
 - [Vyom](https://x.com/HelloVyom): @HelloVyom — Engineer posting AI market analysis and coding-agent/product commentary.
 - [wafer](https://x.com/wafer_ai): @wafer_ai — YC startup using AI to optimize LLM inference across silicon/hardware.
 - [will brown](https://x.com/willccbb): @willccbb — Will Brown, AI researcher at Prime Intellect known for RL and agents work.
 - [Will Bryk](https://x.com/WilliamBryk): @WilliamBryk — CEO/founder of Exa, an AI search API company.
 - [will depue](https://x.com/willdepue): @willdepue — will depue, OpenAI team member, focus on frontier model research and product development.
+- [Wise](https://x.com/trikcode): @trikcode — Wise, co-founder of ship_together, posts about building AI voice agents and dev/AI tooling.
 - [World Labs](https://x.com/theworldlabs): @theworldlabs — Fei-Fei Li's AI startup building spatial intelligence / world models.
 - [Xenova](https://x.com/xenovacom): @xenovacom — creator of Transformers.js, builds in-browser ML tooling and shares open-source AI/ONNX updates.
 - [Xiaomi MiMo](https://x.com/XiaomiMiMo): @XiaomiMiMo — official account of Xiaomi's MiMo AI model team, posts open model releases.
@@ -1317,12 +1461,14 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [智东西China AI News](https://x.com/Chinazhidx): @Chinazhidx — Zhidongxi (智东西), Chinese tech media covering AI industry news.
 - [🚨 AI News | TestingCatalog](https://x.com/testingcatalog): @testingcatalog — well-known AI news account surfacing unreleased AI product features early.
 
-### YouTube (132)
+### YouTube (141)
 
 - [a16z](https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 - [Absolutely Agentic](https://www.youtube.com/channel/UCAK8ZOnMbCmcKa9fJxfEgsA): James Carson explains agentic AI trends and enterprise adoption with a big-picture, practical lens.
+- [AI 365](https://www.youtube.com/channel/UCi9R5vjJcz6NzW1gDTc21zw): Daily AI news and updates covering AI tools, model releases, and industry developments.
 - [AI Andrew](https://www.youtube.com/channel/UCMO_YeA-x_7LUXRorCxOZZw): YouTube channel covering AI chip and semiconductor industry news, focused on the hardware race between NVIDIA, TSMC, Intel, and China.
 - [AI Coach John (Tamil)](https://www.youtube.com/channel/UCmCAY_mStg1POKUWgMg-aGQ): Tamil-language YouTube channel teaching AI, data science, and generative AI concepts.
+- [AI Copium](https://www.youtube.com/channel/UCOFl0wDeBMSBbK3jNJQHHFg): Fast-paced AI news channel documenting the singularity with quick, simple breakdowns of AI news.
 - [AI For Humans](https://www.youtube.com/channel/UCghJTNTO9kcDeUFXMuSDGLQ): YouTube channel/podcast covering weekly AI news and industry commentary.
 - [AI Master](https://www.youtube.com/channel/UC0yHbz4OxdQFwmVX2BBQqLg): YouTube channel covering practical AI tool tutorials, focused on using Claude, Codex, and other AI tools for business tasks.
 - [AI News & Strategy Daily | Nate B Jones](https://www.youtube.com/channel/UC0C-17n9iuUQPylguM1d-lQ): YouTube channel followed for AI explainers, interviews, demos, or builder content.
@@ -1363,6 +1509,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Dwarkesh Patel](https://www.youtube.com/channel/UCXl4i9dYBrFOabk0xGmbkRA): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 - [Dylan Curious](https://www.youtube.com/channel/UCpdyFxSktWo3W6kMYfmk6lg): Daily AI news and analysis covering model releases, robotics, and the pace of AI progress.
 - [Edward Donner](https://www.youtube.com/channel/UCJAewjoWDcyNBvBzMZUxHeQ): Hands-on comparisons and tutorials of AI coding agents, LLMs, and agent frameworks.
+- [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ): Veteran tech channel now centered on critical AI-industry analysis and AI-bubble commentary.
 - [Elodine](https://www.youtube.com/channel/UCHaBGRjoFcPGjzvr5vxNTlw): AI educator cutting through corporate jargon to explain the realities of artificial intelligence.
 - [Every](https://www.youtube.com/channel/UCjIMtrzxYc0lblGhmOgC_CA): Every tests and analyzes leading AI models like Gemini 4, plus AI agent workflows for modern teams.
 - [Eye on AI](https://www.youtube.com/channel/UC-o9u9QL4zXzBwjvT1gmzNg): Interview series with AI researchers, founders, and executives on industry trends and breakthroughs.
@@ -1374,6 +1521,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Greg Isenberg](https://www.youtube.com/channel/UCPjNBjflYl0-HQtUvOx0Ibw): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 - [Hasan Aboul Hasan](https://www.youtube.com/channel/UCl4nXWTkPOqmKlEmIN5_TJQ): Hasan Aboul Hasan teaches AI development with Claude Code tutorials and vibe-coding automation tips.
 - [Higgsfield AI](https://www.youtube.com/channel/UCh13OyDSm-Kb8ij3yZArtFg): YouTube channel for the Higgsfield AI video generation platform, focused on AI filmmaking, motion graphics, and creative tutorials.
+- [House of El: AI](https://www.youtube.com/channel/UCsoc5Ad-fC7wWie2PH4rPcw): AI explainer channel blending geopolitics and finance to decode AI developments for a general audience.
 - [Hugging Face](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w): Official Hugging Face channel: agent training, open-source model releases, and ML engineering tutorials.
 - [Hyperautomation Labs](https://www.youtube.com/channel/UCiax-xbEI0P6Y8C8VwZGMgQ): Daily AI coding tutorials on Claude Code, Cursor, agentic workflows, and automation tools for developers.
 - [IBM Technology](https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ): YouTube channel followed for AI explainers, interviews, demos, or builder content.
@@ -1399,13 +1547,17 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Matt Maher](https://www.youtube.com/channel/UC6-EGajbNF0DPD9AJ8oQC1A): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 - [Matt Wolfe](https://www.youtube.com/channel/UChpleBmo18P08aKCIgti38g): Daily AI news, tool reviews, and tutorials covering the latest AI models, products, and industry trends.
 - [Matthew Berman](https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA): Covers new LLM releases, open-source models, and practical AI tool reviews with hands-on testing.
+- [Meerkat Explains](https://www.youtube.com/channel/UC9WUWMKe-FPb9H7KEoZe8ww): Hand-drawn, human-scripted explainer cartoons breaking down AI, AI safety, and finance topics.
+- [Morgans Code](https://www.youtube.com/channel/UCetGP9xk9LYIxzYO9Id3o6g): Daily videos on AI coding tools, ChatGPT, Claude, Gemini, DeepSeek, and modern web development.
 - [Nate Herk | AI Automation](https://www.youtube.com/channel/UC2ojq-nuP8ceeHqiroeKhBA): Tutorials on building AI agents and no-code automation workflows using tools like n8n for businesses.
+- [NetworkCoder](https://www.youtube.com/channel/UCvO8HVTrwI8-YHeO-I66MdA): Deep technical tutorials on DevOps, NetOps, and AI infrastructure for engineers building AI systems.
 - [Neural Nutshell](https://www.youtube.com/channel/UCE0-acFJdnTPUCYlYoiq_fg): YouTube channel analyzing AI alignment, frontier model capabilities, and AI lab race dynamics.
 - [Nick Saraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA): AI automation and no-code agency tutorials covering Claude Code, n8n, and AI tool workflows.
 - [NoPriorsPodcast](https://www.youtube.com/channel/UCSI7h9hydQ40K5MJHnCrQvw): YouTube channel followed for AI explainers, interviews, demos, or builder content.
 - [NVIDIA](https://www.youtube.com/channel/UCHuiy8bXnmK5nisYHUd1J5g): Official NVIDIA YouTube channel covering GPU hardware, AI research, and developer tools, focused on AI computing announcements.
 - [NVIDIA Developer](https://www.youtube.com/channel/UCBHcMCGaiJhv-ESTcWGJPcw): NVIDIA's official developer channel: CUDA, Nemotron models, robotics/edge AI, and LLM inference tutorials.
 - [NVIDIA Omniverse](https://www.youtube.com/channel/UCSKUoczbGAcMld7HjpCR8OA): NVIDIA's channel for Omniverse simulation, digital twins, and physical AI/robotics workflows like Isaac Sim and GR00T.
+- [OPENRIG](https://www.youtube.com/channel/UCtVTmZdo7U1RzUWm4F0WWBQ): Tutorials and build logs on orchestrating multi-agent AI coding teams with Claude Code and Codex.
 - [Pascal BORNET](https://www.youtube.com/channel/UCeCgaYSdZzMb0W913Mvqerw): AI and automation thought leader covering agentic AI adoption, leadership, and enterprise strategy.
 - [Paul J Lipsky](https://www.youtube.com/channel/UCmeU2DYiVy80wMBGZzEWnbw): Practical AI tool tutorials and weekly AI news roundups for everyday users (ChatGPT, Claude, Gemini).
 - [Peter H. Diamandis](https://www.youtube.com/channel/UCvxm0qTrGN_1LMYgUaftWyQ): Futurist and XPRIZE founder covering AI's exponential impact on jobs, longevity, and abundance.
@@ -1448,6 +1600,7 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew): Math, science, and machine-learning explainer channel covering LLMs, generative models, and AI research.
 - [Wes Roth](https://www.youtube.com/channel/UCqcbQf6yw5KzRoDDcZ_wBSw): Daily AI news and analysis covering frontier model releases, AI tools, and industry developments.
 - [WorldofAI](https://www.youtube.com/channel/UC2WmuBuFq6gL08QYG-JjXKw): Covers new AI tools, models, and research breakthroughs with hands-on demos and explainers.
+- [y8y.systems](https://www.youtube.com/channel/UCKc0YsRJRQZCZbA-REaK4DA): Hands-on AI agent experiments and build logs from a no-slop, human-first engineering channel.
 - [ycombinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg): Y Combinator's channel, useful for startup, builder, and occasional AI company signal.
 - [Zen van Riel](https://www.youtube.com/channel/UC7TUInmEJ4NmYb-krFz-SuA): YouTube channel teaching AI engineering skills, agent design, and production AI systems.
 - [Zubair Trabzada | AI Workshop](https://www.youtube.com/channel/UC2b2wgxm0vFjQfJJ0iRcFRw): YouTube channel followed for AI explainers, interviews, demos, or builder content.
