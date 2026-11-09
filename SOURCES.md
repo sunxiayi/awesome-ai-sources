@@ -31,18 +31,18 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Baseten](https://baseten.co): Baseten's engineering blog on model inference, deployment, and optimization for production AI systems.
 - [Bensbites Substack](https://bensbites.com): Ben's Bites delivers a daily roundup of AI news, tools, and funding with concise original commentary.
 - [Berkeley AI Research](https://bair.berkeley.edu): Official BAIR research source for papers, projects, and lab activity.
-- [Blog](https://blog.redwoodresearch.org): Redwood Research's blog shares original technical research on catastrophic AI risks and mitigation techniques.
-- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
-- [Blog](https://blog.character.ai): Character.AI's official company blog announcing product updates, creator features, and major corporate developments.
-- [Blog](https://blog.pebblous.ai): Pebblous blog publishing empirical investigations into AI model evaluation, data quality, and enterprise AI adoption.
 - [Blog](https://blog.doubleword.ai): Doubleword's engineering blog covers GPU architecture, LLM inference optimization, and serving.
-- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
-- [Blog](https://blog.comfy.org): ComfyUI's blog covers generative AI model integrations, open-weight releases, and creative tooling.
 - [Blog](https://blog.collinear.ai): Collinear AI's blog covering original benchmark development and evaluation research for AI agents.
 - [Blog](https://blog.modelcontextprotocol.io): Official blog of the Model Context Protocol covering specification releases, SDK milestones, and roadmap updates.
+- [Blog](https://blog.character.ai): Character.AI's official company blog announcing product updates, creator features, and major corporate developments.
+- [Blog](https://blog.redwoodresearch.org): Redwood Research's blog shares original technical research on catastrophic AI risks and mitigation techniques.
+- [Blog](https://blog.pebblous.ai): Pebblous blog publishing empirical investigations into AI model evaluation, data quality, and enterprise AI adoption.
+- [Blog](https://blog.comfy.org): ComfyUI's blog covers generative AI model integrations, open-weight releases, and creative tooling.
+- [Blog](https://blog.samaltman.com): Sam Altman's personal blog with essays on OpenAI, AGI development, and the future of AI.
+- [Blog](https://blog.frontier.security): Frontier Security publishes original research and field notes on AI for cyber defense.
 - [blog.owulveryck.info](https://blog.owulveryck.info): Independent engineering blog covering agentic AI development, governance, and platform design patterns.
-- [blog.roboflow.com](https://roboflow.com): Roboflow's company blog covering computer vision model releases, deployment guides, and real-world CV applications.
 - [blog.roboflow.com](https://blog.roboflow.com): Roboflow's blog covers computer vision model training, datasets, and deployment for AI applications.
+- [blog.roboflow.com](https://roboflow.com): Roboflow's company blog covering computer vision model releases, deployment guides, and real-world CV applications.
 - [Blogs](https://blogs.cisco.com): Cisco's AI blog covers enterprise artificial intelligence, networking, and infrastructure product developments.
 - [Braintrust](https://braintrust.dev): Braintrust's company blog on AI agent evaluation, LLM observability, and tooling for building reliable AI products.
 - [ByteDance Seed Blog](https://seed.bytedance.com): Official ByteDance Seed English technical blog for models, research, speech, vision, robotics, and AI systems.
@@ -67,8 +67,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Deepseek](https://deepseek.com): DeepSeek's official news page announcing new model releases and version updates.
 - [Deploymentsafety](https://deploymentsafety.openai.com): OpenAI's Deployment Safety Hub publishes system cards and safety evaluations for each model release.
 - [Developer](https://developer.nvidia.com): NVIDIA's developer blog covers GPU computing, CUDA, and AI model training and deployment techniques.
-- [Developers](https://developers.openai.com): OpenAI's developer portal publishes dated posts on Codex, API tooling, and applied uses of its models for engineers.
 - [Developers](https://developers.googleblog.com): Google's official developer blog filters posts by AI, covering agent frameworks, model tooling, and platform announcements for engineers.
+- [Developers](https://developers.openai.com): OpenAI's developer portal publishes dated posts on Codex, API tooling, and applied uses of its models for engineers.
 - [Drli](https://drli.blog): Independent blog analyzing agentic AI systems and their impact on enterprise revenue operations.
 - [dwarkesh.com](https://dwarkesh.com): Dwarkesh Patel's blog and podcast featuring in-depth interviews and essays on frontier AI progress.
 - [Dylan Castillo](https://dylancastillo.co): Independent blog by a data scientist publishing empirical essays on LLMs and applied AI research.
@@ -139,8 +139,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Neuraltrust](https://neuraltrust.ai): NeuralTrust's blog publishes technical research on AI agent security, jailbreaks, and enterprise LLM governance.
 - [Neurometric Substack](https://blog.neurometric.ai): Neurometric's blog covers small-model AI routing, inference cost optimization, and agentic workflow benchmarks.
 - [Newsletter](https://newsletter.danielpaleka.com): Daniel Paleka's newsletter on AI research and efforts to make the future of AI go well.
-- [Newsroom](https://newsroom.amd.com): AMD's newsroom publishes official announcements on AI chips, data-center hardware, and partnerships.
 - [Newsroom](https://newsroom.arm.com): Arm's newsroom feed publishes company announcements on AI-native chips, mobile GPUs, and edge computing.
+- [Newsroom](https://newsroom.amd.com): AMD's newsroom publishes official announcements on AI chips, data-center hardware, and partnerships.
 - [normaltech.ai](https://normaltech.ai): AI as Normal Technology publishes research-driven essays on AI's societal and economic impact.
 - [NVIDIA AI Blog](https://blogs.nvidia.com): Official NVIDIA feed for AI platform news, launches, and ecosystem updates.
 - [NVIDIA Newsroom](https://nvidianews.nvidia.com): NVIDIA's official newsroom feed covering generative AI product launches, partnerships, and platforms.
@@ -438,8 +438,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [BestBlogs](https://bestblogs.dev): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Betakit](https://betakit.com): BetaKit is a Canadian tech and startup news outlet with a dedicated AI news feed.
 - [Bleepingcomputer](https://bleepingcomputer.com): Bleeping Computer's AI tag covering security incidents and vulnerabilities involving AI systems.
-- [Blog](https://blog.sshh.io): Shrivu Shankar's blog shares hands-on experiments and analysis of frontier AI models and agents.
 - [Blog](https://blog.dailydoseofds.com): Daily Dose of Data Science publishes practical tutorials and explainers on machine learning and AI engineering.
+- [Blog](https://blog.sshh.io): Shrivu Shankar's blog shares hands-on experiments and analysis of frontier AI models and agents.
 - [Bloomberg](https://bloomberg.com): Bloomberg's AI section covers artificial intelligence business, markets, and policy news from a leading financial news outlet.
 - [Bloomberg Technology](https://bloomberg.com): Business and markets publication with a dedicated technology desk and AI coverage.
 - [Boydkane](https://boydkane.com): Boyd Kane's blog covers AI safety research, LLM failure modes, and alignment fellowship work.
@@ -482,8 +482,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Edtechinnovationhub](https://edtechinnovationhub.com): EdTech Innovation Hub's AI category tracks AI funding, hires, and product news in education technology.
 - [EE Times](https://eetimes.com): Technology or business news source that regularly covers AI, software, and startup movement.
 - [Embracethered](https://embracethered.com): Embrace The Red is a security research blog documenting prompt injection, jailbreaks, and other LLM attack techniques.
-- [Emergingai](https://opinionai.substack.com): Opinion AI is a practical daily newsletter on new AI tools, workflows, and monetization tactics for builders.
 - [Emergingai](https://emergingai.substack.com): Newsletter covering practical AI agent development, inference engineering, and emerging technical roles.
+- [Emergingai](https://opinionai.substack.com): Opinion AI is a practical daily newsletter on new AI tools, workflows, and monetization tactics for builders.
 - [En](https://en.sedaily.com): Seoul Economic Daily, a Korean business newspaper, runs dedicated AI PRISM and AI KEY sections analyzing AI's market impact.
 - [Engadget](https://engadget.com): Engadget's AI section covers consumer artificial intelligence products, apps, and industry developments.
 - [Esecurityplanet](https://esecurityplanet.com): eSecurity Planet's AI feed covers artificial intelligence's role in cybersecurity threats and defenses.
@@ -539,8 +539,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Latent Space](https://latent.space): AI engineer-focused publication covering agents, tooling, inference, and ecosystem shifts.
 - [Legaltechnology](https://legaltechnology.com): Legal IT Insider is a legal technology trade publication with a dedicated, actively-updated Generative AI news category.
 - [Lesswrong](https://lesswrong.com): LessWrong is a community blog central to AI alignment and safety research discourse.
-- [Lighthousenewsletter](https://lighthousenewsletter.com): Rafael Pierre's newsletter covers engineering deep-dives into production AI systems and infrastructure.
 - [Lighthousenewsletter](https://litehousenewsletter.substack.com): Independent newsletter on practical AI engineering: LLM cost optimization, agent tooling, RAG, and AI hardware markets.
+- [Lighthousenewsletter](https://lighthousenewsletter.com): Rafael Pierre's newsletter covers engineering deep-dives into production AI systems and infrastructure.
 - [LLM Rumors](https://llmrumors.com): Newsletter analyzing LLM releases, inference infrastructure trends, and competitive dynamics among AI labs.
 - [Llm-stats](https://llm-stats.com): LLM Stats provides independent rankings and benchmark comparisons of large language models' performance and cost.
 - [Maginative](https://maginative.com): Maginative is an independent media outlet publishing news and analysis on the AI industry.
@@ -588,8 +588,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Reinvently](https://reinvently.co.uk): Independent UK research site publishing original AI benchmarks, tool comparisons, and AI policy analysis.
 - [Reuters](https://reuters.com): Reuters' Technology desk covers AI companies, policy, and market impact with wire-service journalism.
 - [Route-fifty](https://route-fifty.com): Route Fifty's AI section covers how state and local governments regulate, procure, and deploy artificial intelligence.
-- [Rundown](https://rss.beehiiv.com): The Rundown AI delivers a daily briefing of artificial-intelligence news, tools, and practical tutorials.
 - [Rundown](https://therundownai.beehiiv.com): The Rundown AI is a daily newsletter summarizing the latest AI model releases, tools, and industry news.
+- [Rundown](https://rss.beehiiv.com): The Rundown AI delivers a daily briefing of artificial-intelligence news, tools, and practical tutorials.
 - [Runtimewire](https://runtimewire.com): RuntimeWire delivers original investigative reporting on AI startup funding, products, and infrastructure moves.
 - [Science](https://science.org): Science magazine's AI tag aggregates peer-reviewed research news and analysis on artificial intelligence from AAAS.
 - [Scientificamerican](https://scientificamerican.com): Scientific American's artificial intelligence section covering AI research breakthroughs, safety, and ethical implications.
@@ -617,8 +617,8 @@ This is the public source library behind [Agentic Brew](https://www.agenticbrew.
 - [Superhuman AI](https://superhuman.ai): News source focused on artificial intelligence, model launches, and industry developments.
 - [Superpowerdaily](https://superpowerdaily.com): Superpower Daily is a free daily AI newsletter curating model, product, startup, policy, and tool news.
 - [Sylvainkalache](https://sylvainkalache.com): Sylvain Kalache's blog examines how AI is changing incident response, code review, and day-to-day engineering.
-- [Tech](https://tech.ifeng.com): Phoenix Tech's AI news channel covering Chinese and global LLM, robotics, and AI safety developments.
 - [Tech](https://tech.yahoo.com): Yahoo Tech's AI section covers original reporting and analysis on artificial intelligence industry news.
+- [Tech](https://tech.ifeng.com): Phoenix Tech's AI news channel covering Chinese and global LLM, robotics, and AI safety developments.
 - [Tech-insider](https://tech-insider.org): Tech Insider is a Stockholm-founded outlet covering AI, cybersecurity, and cloud infrastructure with original reporting.
 - [Techbuzz](https://techbuzz.ai): Techbuzz.ai is an AI-native news outlet covering AI product launches, funding, regulation, and enterprise risk daily.
 - [Techcrunch](https://techcrunch.com): TechCrunch's AI category covers daily news on AI companies, models, funding, and product launches.
